@@ -1,0 +1,31 @@
+name: Deploy Pokedia Bot to EC2
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            sudo mkdir -p /opt/Pokedia-bot
+            sudo chown ec2-user:ec2-user /opt/Pokedia-bot
+
+            cd /opt/Pokedia-bot
+
+            if [ ! -d .git ]; then
+              git clone https://github.com/pokedia/Pokedia-bot.git .
+              echo "Fresh clone into /opt/Pokedia-bot"
+            else
+              git fetch origin
+              git reset --hard origin/main
+              echo "Updated Pokedia-bot"
+            fi
