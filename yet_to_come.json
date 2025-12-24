@@ -1,0 +1,2729 @@
+[
+  {
+    "form_name": "mega-venusaur",
+    "base_stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 123,
+      "special-attack": 122,
+      "special-defense": 120,
+      "speed": 80
+    },
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "aliases": {
+      "french": "Florizarre",
+      "german": "Bisaflor",
+      "english": "Venusaur"
+    },
+    "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "region": "kanto",
+    "dex_no": 3
+  },
+  {
+    "form_name": "gmax-venusaur",
+    "base_stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 80
+    },
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "aliases": {
+      "french": "Florizarre",
+      "german": "Bisaflor",
+      "english": "Venusaur"
+    },
+    "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "region": "kanto",
+    "dex_no": 3
+  },
+  {
+    "form_name": "mega-charizard-x",
+    "base_stats": {
+      "hp": 78,
+      "attack": 130,
+      "defense": 111,
+      "special-attack": 130,
+      "special-defense": 85,
+      "speed": 100
+    },
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Dracaufeu",
+      "german": "Glurak",
+      "english": "Charizard"
+    },
+    "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "region": "kanto",
+    "dex_no": 6
+  },
+  {
+    "form_name": "mega-charizard-y",
+    "base_stats": {
+      "hp": 78,
+      "attack": 104,
+      "defense": 78,
+      "special-attack": 159,
+      "special-defense": 115,
+      "speed": 100
+    },
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "aliases": {
+      "french": "Dracaufeu",
+      "german": "Glurak",
+      "english": "Charizard"
+    },
+    "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "region": "kanto",
+    "dex_no": 6
+  },
+  {
+    "form_name": "gmax-charizard",
+    "base_stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "special-attack": 109,
+      "special-defense": 85,
+      "speed": 100
+    },
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "aliases": {
+      "french": "Dracaufeu",
+      "german": "Glurak",
+      "english": "Charizard"
+    },
+    "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "region": "kanto",
+    "dex_no": 6
+  },
+  {
+    "form_name": "mega-blastoise",
+    "base_stats": {
+      "hp": 79,
+      "attack": 103,
+      "defense": 120,
+      "special-attack": 135,
+      "special-defense": 115,
+      "speed": 78
+    },
+    "types": [
+      "water"
+    ],
+    "aliases": {
+      "french": "Tortank",
+      "german": "Turtok",
+      "english": "Blastoise"
+    },
+    "description": "A brutal POKEMON with pressurized water jets on its shell. They are used for high speed tackles.",
+    "region": "kanto",
+    "dex_no": 9
+  },
+  {
+    "form_name": "gmax-blastoise",
+    "base_stats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "special-attack": 85,
+      "special-defense": 105,
+      "speed": 78
+    },
+    "types": [
+      "water"
+    ],
+    "aliases": {
+      "french": "Tortank",
+      "german": "Turtok",
+      "english": "Blastoise"
+    },
+    "description": "A brutal POKEMON with pressurized water jets on its shell. They are used for high speed tackles.",
+    "region": "kanto",
+    "dex_no": 9
+  },
+  {
+    "form_name": "gmax-butterfree",
+    "base_stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 50,
+      "special-attack": 90,
+      "special-defense": 80,
+      "speed": 70
+    },
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "aliases": {
+      "french": "Papilusion",
+      "german": "Smettbo",
+      "english": "Butterfree"
+    },
+    "description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+    "region": "kanto",
+    "dex_no": 12
+  },
+  {
+    "form_name": "mega-beedrill",
+    "base_stats": {
+      "hp": 65,
+      "attack": 150,
+      "defense": 40,
+      "special-attack": 15,
+      "special-defense": 80,
+      "speed": 145
+    },
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "aliases": {
+      "french": "Dardargnan",
+      "german": "Bibor",
+      "english": "Beedrill"
+    },
+    "description": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "region": "kanto",
+    "dex_no": 15
+  },
+  {
+    "form_name": "mega-pidgeot",
+    "base_stats": {
+      "hp": 83,
+      "attack": 80,
+      "defense": 80,
+      "special-attack": 135,
+      "special-defense": 80,
+      "speed": 121
+    },
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "aliases": {
+      "french": "Roucarnage",
+      "german": "Tauboss",
+      "english": "Pidgeot"
+    },
+    "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+    "region": "kanto",
+    "dex_no": 18
+  },
+  {
+    "form_name": "gmax-meowth",
+    "base_stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "special-attack": 40,
+      "special-defense": 40,
+      "speed": 90
+    },
+    "types": [
+      "normal"
+    ],
+    "aliases": {
+      "french": "Miaouss",
+      "german": "Mauzi",
+      "english": "Meowth"
+    },
+    "description": "It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth.",
+    "region": "kanto",
+    "dex_no": 52
+  },
+  {
+    "form_name": "mega-alakazam",
+    "base_stats": {
+      "hp": 55,
+      "attack": 50,
+      "defense": 65,
+      "special-attack": 175,
+      "special-defense": 105,
+      "speed": 150
+    },
+    "types": [
+      "psychic"
+    ],
+    "aliases": {
+      "french": "Alakazam",
+      "german": "Simsala",
+      "english": "Alakazam"
+    },
+    "description": "Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000.",
+    "region": "kanto",
+    "dex_no": 65
+  },
+  {
+    "form_name": "gmax-machamp",
+    "base_stats": {
+      "hp": 90,
+      "attack": 130,
+      "defense": 80,
+      "special-attack": 65,
+      "special-defense": 85,
+      "speed": 55
+    },
+    "types": [
+      "fighting"
+    ],
+    "aliases": {
+      "french": "Mackogneur",
+      "german": "Machomei",
+      "english": "Machamp"
+    },
+    "description": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
+    "region": "kanto",
+    "dex_no": 68
+  },
+  {
+    "form_name": "mega-slowbro",
+    "base_stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 180,
+      "special-attack": 130,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "aliases": {
+      "french": "Flagadoss",
+      "german": "Lahmus",
+      "english": "Slowbro"
+    },
+    "description": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.",
+    "region": "kanto",
+    "dex_no": 80
+  },
+  {
+    "form_name": "mega-gengar",
+    "base_stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 80,
+      "special-attack": 170,
+      "special-defense": 95,
+      "speed": 130
+    },
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "aliases": {
+      "french": "Ectoplasma",
+      "german": "Gengar",
+      "english": "Gengar"
+    },
+    "description": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.",
+    "region": "kanto",
+    "dex_no": 94
+  },
+  {
+    "form_name": "gmax-gengar",
+    "base_stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 60,
+      "special-attack": 130,
+      "special-defense": 75,
+      "speed": 110
+    },
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "aliases": {
+      "french": "Ectoplasma",
+      "german": "Gengar",
+      "english": "Gengar"
+    },
+    "description": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.",
+    "region": "kanto",
+    "dex_no": 94
+  },
+  {
+    "form_name": "gmax-kingler",
+    "base_stats": {
+      "hp": 55,
+      "attack": 130,
+      "defense": 115,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 75
+    },
+    "types": [
+      "water"
+    ],
+    "aliases": {
+      "french": "Krabboss",
+      "german": "Kingler",
+      "english": "Kingler"
+    },
+    "description": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+    "region": "kanto",
+    "dex_no": 99
+  },
+  {
+    "form_name": "mega-kangaskhan",
+    "base_stats": {
+      "hp": 105,
+      "attack": 125,
+      "defense": 100,
+      "special-attack": 60,
+      "special-defense": 100,
+      "speed": 100
+    },
+    "types": [
+      "normal"
+    ],
+    "aliases": {
+      "french": "Kangourex",
+      "german": "Kangama",
+      "english": "Kangaskhan"
+    },
+    "description": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+    "region": "kanto",
+    "dex_no": 115
+  },
+  {
+    "form_name": "mega-pinsir",
+    "base_stats": {
+      "hp": 65,
+      "attack": 155,
+      "defense": 120,
+      "special-attack": 65,
+      "special-defense": 90,
+      "speed": 105
+    },
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "aliases": {
+      "french": "Scarabrute",
+      "german": "Pinsir",
+      "english": "Pinsir"
+    },
+    "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+    "region": "kanto",
+    "dex_no": 127
+  },
+  {
+    "form_name": "tauros-paldea-combat-breed",
+    "base_stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 105,
+      "special-attack": 30,
+      "special-defense": 70,
+      "speed": 100
+    },
+    "types": [
+      "fighting"
+    ],
+    "aliases": {
+      "french": "Tauros",
+      "german": "Tauros",
+      "english": "Tauros"
+    },
+    "description": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+    "region": "kanto",
+    "dex_no": null
+  },
+  {
+    "form_name": "tauros-paldea-blaze-breed",
+    "base_stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 105,
+      "special-attack": 30,
+      "special-defense": 70,
+      "speed": 100
+    },
+    "types": [
+      "fighting",
+      "fire"
+    ],
+    "aliases": {
+      "french": "Tauros",
+      "german": "Tauros",
+      "english": "Tauros"
+    },
+    "description": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+    "region": "kanto",
+    "dex_no": null
+  },
+  {
+    "form_name": "tauros-paldea-aqua-breed",
+    "base_stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 105,
+      "special-attack": 30,
+      "special-defense": 70,
+      "speed": 100
+    },
+    "types": [
+      "fighting",
+      "water"
+    ],
+    "aliases": {
+      "french": "Tauros",
+      "german": "Tauros",
+      "english": "Tauros"
+    },
+    "description": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+    "region": "kanto",
+    "dex_no": null
+  },
+  {
+    "form_name": "mega-gyarados",
+    "base_stats": {
+      "hp": 95,
+      "attack": 155,
+      "defense": 109,
+      "special-attack": 70,
+      "special-defense": 130,
+      "speed": 81
+    },
+    "types": [
+      "water",
+      "dark"
+    ],
+    "aliases": {
+      "french": "Léviator",
+      "german": "Garados",
+      "english": "Gyarados"
+    },
+    "description": "Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.",
+    "region": "kanto",
+    "dex_no": 130
+  },
+  {
+    "form_name": "gmax-lapras",
+    "base_stats": {
+      "hp": 130,
+      "attack": 85,
+      "defense": 80,
+      "special-attack": 85,
+      "special-defense": 95,
+      "speed": 60
+    },
+    "types": [
+      "water",
+      "ice"
+    ],
+    "aliases": {
+      "french": "Lokhlass",
+      "german": "Lapras",
+      "english": "Lapras"
+    },
+    "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
+    "region": "kanto",
+    "dex_no": 131
+  },
+  {
+    "form_name": "gmax-eevee",
+    "base_stats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 50,
+      "special-attack": 45,
+      "special-defense": 65,
+      "speed": 55
+    },
+    "types": [
+      "normal"
+    ],
+    "aliases": {
+      "french": "Évoli",
+      "german": "Evoli",
+      "english": "Eevee"
+    },
+    "description": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+    "region": "kanto",
+    "dex_no": 133
+  },
+  {
+    "form_name": "mega-aerodactyl",
+    "base_stats": {
+      "hp": 80,
+      "attack": 135,
+      "defense": 85,
+      "special-attack": 70,
+      "special-defense": 95,
+      "speed": 150
+    },
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "aliases": {
+      "french": "Ptéra",
+      "german": "Aerodactyl",
+      "english": "Aerodactyl"
+    },
+    "description": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+    "region": "kanto",
+    "dex_no": 142
+  },
+  {
+    "form_name": "gmax-snorlax",
+    "base_stats": {
+      "hp": 160,
+      "attack": 110,
+      "defense": 65,
+      "special-attack": 65,
+      "special-defense": 110,
+      "speed": 30
+    },
+    "types": [
+      "normal"
+    ],
+    "aliases": {
+      "french": "Ronflex",
+      "german": "Relaxo",
+      "english": "Snorlax"
+    },
+    "description": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+    "region": "kanto",
+    "dex_no": 143
+  },
+  {
+    "form_name": "mega-mewtwo-x",
+    "base_stats": {
+      "hp": 106,
+      "attack": 190,
+      "defense": 100,
+      "special-attack": 154,
+      "special-defense": 100,
+      "speed": 130
+    },
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "aliases": {
+      "french": "Mewtwo",
+      "german": "Mewtu",
+      "english": "Mewtwo"
+    },
+    "description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "region": "kanto",
+    "dex_no": null
+  },
+  {
+    "form_name": "mega-mewtwo-y",
+    "base_stats": {
+      "hp": 106,
+      "attack": 150,
+      "defense": 70,
+      "special-attack": 194,
+      "special-defense": 120,
+      "speed": 140
+    },
+    "types": [
+      "psychic"
+    ],
+    "aliases": {
+      "french": "Mewtwo",
+      "german": "Mewtu",
+      "english": "Mewtwo"
+    },
+    "description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "region": "kanto",
+    "dex_no": null
+  },
+  {
+    "form_name": "mega-ampharos",
+    "base_stats": {
+      "hp": 90,
+      "attack": 95,
+      "defense": 105,
+      "special-attack": 165,
+      "special-defense": 110,
+      "speed": 45
+    },
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Pharamp",
+      "german": "Ampharos",
+      "english": "Ampharos"
+    },
+    "description": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+    "region": "johto",
+    "dex_no": 181
+  },
+  {
+    "form_name": "wooper-paldea",
+    "base_stats": {
+      "hp": 55,
+      "attack": 45,
+      "defense": 45,
+      "special-attack": 25,
+      "special-defense": 25,
+      "speed": 15
+    },
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "aliases": {
+      "french": "Axoloto",
+      "german": "Felino",
+      "english": "Wooper"
+    },
+    "description": "This POKéMON lives in cold water. It will leave the water to search for food when it gets cold outside.",
+    "region": "johto",
+    "dex_no": null
+  },
+  {
+    "form_name": "mega-steelix",
+    "base_stats": {
+      "hp": 75,
+      "attack": 125,
+      "defense": 230,
+      "special-attack": 55,
+      "special-defense": 95,
+      "speed": 30
+    },
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "aliases": {
+      "french": "Steelix",
+      "german": "Stahlos",
+      "english": "Steelix"
+    },
+    "description": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+    "region": "johto",
+    "dex_no": 208
+  },
+  {
+    "form_name": "mega-scizor",
+    "base_stats": {
+      "hp": 70,
+      "attack": 150,
+      "defense": 140,
+      "special-attack": 65,
+      "special-defense": 100,
+      "speed": 75
+    },
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "aliases": {
+      "french": "Cizayox",
+      "german": "Scherox",
+      "english": "Scizor"
+    },
+    "description": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+    "region": "johto",
+    "dex_no": 212
+  },
+  {
+    "form_name": "mega-heracross",
+    "base_stats": {
+      "hp": 80,
+      "attack": 185,
+      "defense": 115,
+      "special-attack": 40,
+      "special-defense": 105,
+      "speed": 75
+    },
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "aliases": {
+      "french": "Scarhino",
+      "german": "Skaraborn",
+      "english": "Heracross"
+    },
+    "description": "It is usually docile, but if it is disturbed while sipping honey, it chases off the intruder with its horn.",
+    "region": "johto",
+    "dex_no": 214
+  },
+  {
+    "form_name": "mega-houndoom",
+    "base_stats": {
+      "hp": 75,
+      "attack": 90,
+      "defense": 90,
+      "special-attack": 140,
+      "special-defense": 90,
+      "speed": 115
+    },
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "aliases": {
+      "french": "Démolosse",
+      "german": "Hundemon",
+      "english": "Houndoom"
+    },
+    "description": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+    "region": "johto",
+    "dex_no": 229
+  },
+  {
+    "form_name": "mega-tyranitar",
+    "base_stats": {
+      "hp": 100,
+      "attack": 164,
+      "defense": 150,
+      "special-attack": 95,
+      "special-defense": 120,
+      "speed": 71
+    },
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "aliases": {
+      "french": "Tyranocif",
+      "german": "Despotar",
+      "english": "Tyranitar"
+    },
+    "description": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+    "region": "johto",
+    "dex_no": 248
+  },
+  {
+    "form_name": "mega-sceptile",
+    "base_stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 75,
+      "special-attack": 145,
+      "special-defense": 85,
+      "speed": 145
+    },
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Jungko",
+      "german": "Gewaldro",
+      "english": "Sceptile"
+    },
+    "description": "The leaves growing on SCEPTILE’s body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
+    "region": "hoenn",
+    "dex_no": 254
+  },
+  {
+    "form_name": "mega-blaziken",
+    "base_stats": {
+      "hp": 80,
+      "attack": 160,
+      "defense": 80,
+      "special-attack": 130,
+      "special-defense": 80,
+      "speed": 100
+    },
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "aliases": {
+      "french": "Braségali",
+      "german": "Lohgock",
+      "english": "Blaziken"
+    },
+    "description": "In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this POKéMON’s wrists burn.",
+    "region": "hoenn",
+    "dex_no": 257
+  },
+  {
+    "form_name": "mega-swampert",
+    "base_stats": {
+      "hp": 100,
+      "attack": 150,
+      "defense": 110,
+      "special-attack": 95,
+      "special-defense": 110,
+      "speed": 70
+    },
+    "types": [
+      "water",
+      "ground"
+    ],
+    "aliases": {
+      "french": "Laggron",
+      "german": "Sumpex",
+      "english": "Swampert"
+    },
+    "description": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POKéMON also has powerful vision that lets it see even in murky water.",
+    "region": "hoenn",
+    "dex_no": 260
+  },
+  {
+    "form_name": "mega-gardevoir",
+    "base_stats": {
+      "hp": 68,
+      "attack": 85,
+      "defense": 65,
+      "special-attack": 165,
+      "special-defense": 135,
+      "speed": 100
+    },
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "aliases": {
+      "french": "Gardevoir",
+      "german": "Guardevoir",
+      "english": "Gardevoir"
+    },
+    "description": "GARDEVOIR has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power.",
+    "region": "hoenn",
+    "dex_no": 282
+  },
+  {
+    "form_name": "mega-sableye",
+    "base_stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 125,
+      "special-attack": 85,
+      "special-defense": 115,
+      "speed": 20
+    },
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "aliases": {
+      "french": "Ténéfix",
+      "german": "Zobiris",
+      "english": "Sableye"
+    },
+    "description": "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POKéMON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
+    "region": "hoenn",
+    "dex_no": 302
+  },
+  {
+    "form_name": "mega-mawile",
+    "base_stats": {
+      "hp": 50,
+      "attack": 105,
+      "defense": 125,
+      "special-attack": 55,
+      "special-defense": 95,
+      "speed": 50
+    },
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "aliases": {
+      "french": "Mysdibule",
+      "german": "Flunkifer",
+      "english": "Mawile"
+    },
+    "description": "MAWHILE’s huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, MAWHILE chomps it with its gaping jaws.",
+    "region": "hoenn",
+    "dex_no": 303
+  },
+  {
+    "form_name": "mega-aggron",
+    "base_stats": {
+      "hp": 70,
+      "attack": 140,
+      "defense": 230,
+      "special-attack": 60,
+      "special-defense": 80,
+      "speed": 50
+    },
+    "types": [
+      "steel"
+    ],
+    "aliases": {
+      "french": "Galeking",
+      "german": "Stolloss",
+      "english": "Aggron"
+    },
+    "description": "AGGRON claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This POKéMON vigilantly patrols its territory at all times.",
+    "region": "hoenn",
+    "dex_no": 306
+  },
+  {
+    "form_name": "mega-medicham",
+    "base_stats": {
+      "hp": 60,
+      "attack": 100,
+      "defense": 85,
+      "special-attack": 80,
+      "special-defense": 85,
+      "speed": 100
+    },
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "aliases": {
+      "french": "Charmina",
+      "german": "Meditalis",
+      "english": "Medicham"
+    },
+    "description": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POKéMON hides its presence by merging itself with fields and mountains.",
+    "region": "hoenn",
+    "dex_no": 308
+  },
+  {
+    "form_name": "mega-manectric",
+    "base_stats": {
+      "hp": 70,
+      "attack": 75,
+      "defense": 80,
+      "special-attack": 135,
+      "special-defense": 80,
+      "speed": 135
+    },
+    "types": [
+      "electric"
+    ],
+    "aliases": {
+      "french": "Élecsprint",
+      "german": "Voltenso",
+      "english": "Manectric"
+    },
+    "description": "MANECTRIC is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this POKéMON creates thunderclouds.",
+    "region": "hoenn",
+    "dex_no": 310
+  },
+  {
+    "form_name": "mega-sharpedo",
+    "base_stats": {
+      "hp": 70,
+      "attack": 140,
+      "defense": 70,
+      "special-attack": 110,
+      "special-defense": 65,
+      "speed": 105
+    },
+    "types": [
+      "water",
+      "dark"
+    ],
+    "aliases": {
+      "french": "Sharpedo",
+      "german": "Tohaido",
+      "english": "Sharpedo"
+    },
+    "description": "Nicknamed “the bully of the sea,” SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POKéMON can thoroughly tear apart a supertanker.",
+    "region": "hoenn",
+    "dex_no": 319
+  },
+  {
+    "form_name": "mega-camerupt",
+    "base_stats": {
+      "hp": 70,
+      "attack": 120,
+      "defense": 100,
+      "special-attack": 145,
+      "special-defense": 105,
+      "speed": 20
+    },
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "aliases": {
+      "french": "Camérupt",
+      "german": "Camerupt",
+      "english": "Camerupt"
+    },
+    "description": "CAMERUPT has a volcano inside its body. Magma of 18,000 degrees F courses through its body. Occasionally, the humps on this POKéMON’s back erupt, spewing the superheated magma.",
+    "region": "hoenn",
+    "dex_no": 323
+  },
+  {
+    "form_name": "mega-altaria",
+    "base_stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 110,
+      "special-attack": 110,
+      "special-defense": 105,
+      "speed": 80
+    },
+    "types": [
+      "dragon",
+      "fairy"
+    ],
+    "aliases": {
+      "french": "Altaria",
+      "german": "Altaria",
+      "english": "Altaria"
+    },
+    "description": "ALTARIA dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this POKéMON makes its listeners experience dreamy wonderment.",
+    "region": "hoenn",
+    "dex_no": 334
+  },
+  {
+    "form_name": "mega-banette",
+    "base_stats": {
+      "hp": 64,
+      "attack": 165,
+      "defense": 75,
+      "special-attack": 93,
+      "special-defense": 83,
+      "speed": 75
+    },
+    "types": [
+      "ghost"
+    ],
+    "aliases": {
+      "french": "Branette",
+      "german": "Banette",
+      "english": "Banette"
+    },
+    "description": "BANETTE generates energy for laying strong curses by sticking pins into its own body. This POKéMON was originally a pitiful plush doll that was thrown away.",
+    "region": "hoenn",
+    "dex_no": 354
+  },
+  {
+    "form_name": "mega-absol",
+    "base_stats": {
+      "hp": 65,
+      "attack": 150,
+      "defense": 60,
+      "special-attack": 115,
+      "special-defense": 60,
+      "speed": 115
+    },
+    "types": [
+      "dark"
+    ],
+    "aliases": {
+      "french": "Absol",
+      "german": "Absol",
+      "english": "Absol"
+    },
+    "description": "Every time ABSOL appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster POKéMON.",
+    "region": "hoenn",
+    "dex_no": 359
+  },
+  {
+    "form_name": "mega-glalie",
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 80,
+      "special-attack": 120,
+      "special-defense": 80,
+      "speed": 100
+    },
+    "types": [
+      "ice"
+    ],
+    "aliases": {
+      "french": "Oniglali",
+      "german": "Firnontor",
+      "english": "Glalie"
+    },
+    "description": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POKéMON has the ability to freeze moisture in the atmosphere into any shape it desires.",
+    "region": "hoenn",
+    "dex_no": 362
+  },
+  {
+    "form_name": "mega-salamence",
+    "base_stats": {
+      "hp": 95,
+      "attack": 145,
+      "defense": 130,
+      "special-attack": 120,
+      "special-defense": 90,
+      "speed": 120
+    },
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "aliases": {
+      "french": "Drattak",
+      "german": "Brutalanda",
+      "english": "Salamence"
+    },
+    "description": "SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this POKéMON’s cells, causing it to sprout its magnificent wings.",
+    "region": "hoenn",
+    "dex_no": 373
+  },
+  {
+    "form_name": "mega-metagross",
+    "base_stats": {
+      "hp": 80,
+      "attack": 145,
+      "defense": 150,
+      "special-attack": 105,
+      "special-defense": 110,
+      "speed": 110
+    },
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "aliases": {
+      "french": "Métalosse",
+      "german": "Metagross",
+      "english": "Metagross"
+    },
+    "description": "METAGROSS has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This POKéMON can float in the air by tucking in its four legs.",
+    "region": "hoenn",
+    "dex_no": 376
+  },
+  {
+    "form_name": "mega-latias",
+    "base_stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 120,
+      "special-attack": 140,
+      "special-defense": 150,
+      "speed": 110
+    },
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "aliases": {
+      "french": "Latias",
+      "german": "Latias",
+      "english": "Latias"
+    },
+    "description": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POKéMON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
+    "region": "hoenn",
+    "dex_no": 380
+  },
+  {
+    "form_name": "mega-latios",
+    "base_stats": {
+      "hp": 80,
+      "attack": 130,
+      "defense": 100,
+      "special-attack": 160,
+      "special-defense": 120,
+      "speed": 110
+    },
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "aliases": {
+      "french": "Latios",
+      "german": "Latios",
+      "english": "Latios"
+    },
+    "description": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POKéMON is intelligent and understands human speech.",
+    "region": "hoenn",
+    "dex_no": 381
+  },
+  {
+    "form_name": "kyogre-primal",
+    "base_stats": {
+      "hp": 100,
+      "attack": 150,
+      "defense": 90,
+      "special-attack": 180,
+      "special-defense": 160,
+      "speed": 90
+    },
+    "types": [
+      "water"
+    ],
+    "aliases": {
+      "french": "Kyogre",
+      "german": "Kyogre",
+      "english": "Kyogre"
+    },
+    "description": "KYOGRE has the power to create massive rain clouds that cover the entire sky and bring about torrential downpours. This POKéMON saved people who were suffering from droughts.",
+    "region": "hoenn",
+    "dex_no": null
+  },
+  {
+    "form_name": "groudon-primal",
+    "base_stats": {
+      "hp": 100,
+      "attack": 180,
+      "defense": 160,
+      "special-attack": 150,
+      "special-defense": 90,
+      "speed": 90
+    },
+    "types": [
+      "ground",
+      "fire"
+    ],
+    "aliases": {
+      "french": "Groudon",
+      "german": "Groudon",
+      "english": "Groudon"
+    },
+    "description": "GROUDON has long been described in  mythology as the POKéMON that raised lands and expanded continents. This POKéMON took to sleep after a cataclysmic battle with KYOGRE.",
+    "region": "hoenn",
+    "dex_no": null
+  },
+  {
+    "form_name": "mega-rayquaza",
+    "base_stats": {
+      "hp": 105,
+      "attack": 180,
+      "defense": 100,
+      "special-attack": 180,
+      "special-defense": 100,
+      "speed": 115
+    },
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "aliases": {
+      "french": "Rayquaza",
+      "german": "Rayquaza",
+      "english": "Rayquaza"
+    },
+    "description": "RAYQUAZA lived for hundreds of millions of years in the earth’s ozone layer,  never descending to the ground. This POKéMON appears to feed on water and particles in the atmosphere.",
+    "region": "hoenn",
+    "dex_no": 384
+  },
+  {
+    "form_name": "mega-lopunny",
+    "base_stats": {
+      "hp": 65,
+      "attack": 136,
+      "defense": 94,
+      "special-attack": 54,
+      "special-defense": 96,
+      "speed": 135
+    },
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "aliases": {
+      "french": "Lockpin",
+      "german": "Schlapor",
+      "english": "Lopunny"
+    },
+    "description": "An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger.",
+    "region": "sinnoh",
+    "dex_no": 428
+  },
+  {
+    "form_name": "mega-garchomp",
+    "base_stats": {
+      "hp": 108,
+      "attack": 170,
+      "defense": 115,
+      "special-attack": 120,
+      "special-defense": 95,
+      "speed": 92
+    },
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "aliases": {
+      "french": "Carchacrok",
+      "german": "Knakrack",
+      "english": "Garchomp"
+    },
+    "description": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+    "region": "sinnoh",
+    "dex_no": 445
+  },
+  {
+    "form_name": "mega-lucario",
+    "base_stats": {
+      "hp": 70,
+      "attack": 145,
+      "defense": 88,
+      "special-attack": 140,
+      "special-defense": 70,
+      "speed": 112
+    },
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "aliases": {
+      "french": "Lucario",
+      "german": "Lucario",
+      "english": "Lucario"
+    },
+    "description": "It has the ability to sense the auras of all things. It understands human speech.",
+    "region": "sinnoh",
+    "dex_no": 448
+  },
+  {
+    "form_name": "mega-abomasnow",
+    "base_stats": {
+      "hp": 90,
+      "attack": 132,
+      "defense": 105,
+      "special-attack": 132,
+      "special-defense": 105,
+      "speed": 30
+    },
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "aliases": {
+      "french": "Blizzaroi",
+      "german": "Rexblisar",
+      "english": "Abomasnow"
+    },
+    "description": "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
+    "region": "sinnoh",
+    "dex_no": 460
+  },
+  {
+    "form_name": "mega-gallade",
+    "base_stats": {
+      "hp": 68,
+      "attack": 165,
+      "defense": 95,
+      "special-attack": 65,
+      "special-defense": 115,
+      "speed": 110
+    },
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "aliases": {
+      "french": "Gallame",
+      "german": "Galagladi",
+      "english": "Gallade"
+    },
+    "description": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
+    "region": "sinnoh",
+    "dex_no": 475
+  },
+  {
+    "form_name": "dialga-origin",
+    "base_stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 120,
+      "special-attack": 150,
+      "special-defense": 120,
+      "speed": 90
+    },
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Dialga",
+      "german": "Dialga",
+      "english": "Dialga"
+    },
+    "description": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+    "region": "sinnoh",
+    "dex_no": null
+  },
+  {
+    "form_name": "palkia-origin",
+    "base_stats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 100,
+      "special-attack": 150,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Palkia",
+      "german": "Palkia",
+      "english": "Palkia"
+    },
+    "description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+    "region": "sinnoh",
+    "dex_no": null
+  },
+  {
+    "form_name": "mega-audino",
+    "base_stats": {
+      "hp": 103,
+      "attack": 60,
+      "defense": 126,
+      "special-attack": 80,
+      "special-defense": 126,
+      "speed": 50
+    },
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "aliases": {
+      "french": "Nanméouïe",
+      "german": "Ohrdoch",
+      "english": "Audino"
+    },
+    "description": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+    "region": "unova",
+    "dex_no": 531
+  },
+  {
+    "form_name": "gmax-garbodor",
+    "base_stats": {
+      "hp": 80,
+      "attack": 95,
+      "defense": 82,
+      "special-attack": 60,
+      "special-defense": 82,
+      "speed": 75
+    },
+    "types": [
+      "poison"
+    ],
+    "aliases": {
+      "french": "Miasmax",
+      "german": "Deponitox",
+      "english": "Garbodor"
+    },
+    "description": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+    "region": "unova",
+    "dex_no": 569
+  },
+  {
+    "form_name": "floette-eternal",
+    "base_stats": {
+      "hp": 74,
+      "attack": 65,
+      "defense": 67,
+      "special-attack": 125,
+      "special-defense": 128,
+      "speed": 92
+    },
+    "types": [
+      "fairy"
+    ],
+    "aliases": {
+      "french": "Floette",
+      "german": "Floette",
+      "english": "Floette"
+    },
+    "description": "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.",
+    "region": "kalos",
+    "dex_no": null
+  },
+  {
+    "form_name": "mega-diancie",
+    "base_stats": {
+      "hp": 50,
+      "attack": 160,
+      "defense": 110,
+      "special-attack": 160,
+      "special-defense": 110,
+      "speed": 110
+    },
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "aliases": {
+      "french": "Diancie",
+      "german": "Diancie",
+      "english": "Diancie"
+    },
+    "description": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
+    "region": "kalos",
+    "dex_no": 719
+  },
+  {
+    "form_name": "magearna-original",
+    "base_stats": {
+      "hp": 80,
+      "attack": 95,
+      "defense": 115,
+      "special-attack": 130,
+      "special-defense": 115,
+      "speed": 65
+    },
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "aliases": {
+      "french": "Magearna",
+      "german": "Magearna",
+      "english": "Magearna"
+    },
+    "description": "This artificial Pokémon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
+    "region": "alola",
+    "dex_no": null
+  },
+  {
+    "form_name": "gmax-melmetal",
+    "base_stats": {
+      "hp": 135,
+      "attack": 143,
+      "defense": 143,
+      "special-attack": 80,
+      "special-defense": 65,
+      "speed": 34
+    },
+    "types": [
+      "steel"
+    ],
+    "aliases": {
+      "french": "Melmetal",
+      "german": "Melmetal",
+      "english": "Melmetal"
+    },
+    "description": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+    "region": "alola",
+    "dex_no": 809
+  },
+  {
+    "form_name": "gmax-rillaboom",
+    "base_stats": {
+      "hp": 100,
+      "attack": 125,
+      "defense": 90,
+      "special-attack": 60,
+      "special-defense": 70,
+      "speed": 85
+    },
+    "types": [
+      "grass"
+    ],
+    "aliases": {
+      "french": "Gorythmic",
+      "german": "Gortrom",
+      "english": "Rillaboom"
+    },
+    "description": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
+    "region": "galar",
+    "dex_no": 812
+  },
+  {
+    "form_name": "gmax-cinderace",
+    "base_stats": {
+      "hp": 80,
+      "attack": 116,
+      "defense": 75,
+      "special-attack": 65,
+      "special-defense": 75,
+      "speed": 119
+    },
+    "types": [
+      "fire"
+    ],
+    "aliases": {
+      "french": "Pyrobut",
+      "german": "Liberlo",
+      "english": "Cinderace"
+    },
+    "description": "It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.",
+    "region": "galar",
+    "dex_no": 815
+  },
+  {
+    "form_name": "gmax-inteleon",
+    "base_stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 65,
+      "special-attack": 125,
+      "special-defense": 65,
+      "speed": 120
+    },
+    "types": [
+      "water"
+    ],
+    "aliases": {
+      "french": "Lézargus",
+      "german": "Intelleon",
+      "english": "Inteleon"
+    },
+    "description": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
+    "region": "galar",
+    "dex_no": 818
+  },
+  {
+    "form_name": "gmax-corviknight",
+    "base_stats": {
+      "hp": 98,
+      "attack": 87,
+      "defense": 105,
+      "special-attack": 53,
+      "special-defense": 85,
+      "speed": 67
+    },
+    "types": [
+      "flying",
+      "steel"
+    ],
+    "aliases": {
+      "french": "Corvaillus",
+      "german": "Krarmor",
+      "english": "Corviknight"
+    },
+    "description": "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+    "region": "galar",
+    "dex_no": 823
+  },
+  {
+    "form_name": "gmax-orbeetle",
+    "base_stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 110,
+      "special-attack": 80,
+      "special-defense": 120,
+      "speed": 90
+    },
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "aliases": {
+      "french": "Astronelle",
+      "german": "Maritellit",
+      "english": "Orbeetle"
+    },
+    "description": "It’s famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
+    "region": "galar",
+    "dex_no": 826
+  },
+  {
+    "form_name": "gmax-drednaw",
+    "base_stats": {
+      "hp": 90,
+      "attack": 115,
+      "defense": 90,
+      "special-attack": 48,
+      "special-defense": 68,
+      "speed": 74
+    },
+    "types": [
+      "water",
+      "rock"
+    ],
+    "aliases": {
+      "french": "Torgamord",
+      "german": "Kamalm",
+      "english": "Drednaw"
+    },
+    "description": "With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",
+    "region": "galar",
+    "dex_no": 834
+  },
+  {
+    "form_name": "gmax-coalossal",
+    "base_stats": {
+      "hp": 110,
+      "attack": 80,
+      "defense": 120,
+      "special-attack": 80,
+      "special-defense": 90,
+      "speed": 30
+    },
+    "types": [
+      "rock",
+      "fire"
+    ],
+    "aliases": {
+      "french": "Monthracite",
+      "german": "Montecarbo",
+      "english": "Coalossal"
+    },
+    "description": "It’s usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",
+    "region": "galar",
+    "dex_no": 839
+  },
+  {
+    "form_name": "gmax-flapple",
+    "base_stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 80,
+      "special-attack": 95,
+      "special-defense": 60,
+      "speed": 70
+    },
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Pomdrapi",
+      "german": "Drapfel",
+      "english": "Flapple"
+    },
+    "description": "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",
+    "region": "galar",
+    "dex_no": 841
+  },
+  {
+    "form_name": "gmax-appletun",
+    "base_stats": {
+      "hp": 110,
+      "attack": 85,
+      "defense": 80,
+      "special-attack": 100,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Dratatin",
+      "german": "Schlapfel",
+      "english": "Appletun"
+    },
+    "description": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",
+    "region": "galar",
+    "dex_no": 842
+  },
+  {
+    "form_name": "gmax-sandaconda",
+    "base_stats": {
+      "hp": 72,
+      "attack": 107,
+      "defense": 125,
+      "special-attack": 65,
+      "special-defense": 70,
+      "speed": 71
+    },
+    "types": [
+      "ground"
+    ],
+    "aliases": {
+      "french": "Dunaconda",
+      "german": "Sanaconda",
+      "english": "Sandaconda"
+    },
+    "description": "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.",
+    "region": "galar",
+    "dex_no": 844
+  },
+  {
+    "form_name": "cramorant-gulping",
+    "base_stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 55,
+      "special-attack": 85,
+      "special-defense": 95,
+      "speed": 85
+    },
+    "types": [
+      "flying",
+      "water"
+    ],
+    "aliases": {
+      "french": "Nigosier",
+      "german": "Urgl",
+      "english": "Cramorant"
+    },
+    "description": "It’s so strong that it can knock out some opponents in a single hit, but it also may forget what it’s battling midfight.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "cramorant-gorging",
+    "base_stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 55,
+      "special-attack": 85,
+      "special-defense": 95,
+      "speed": 85
+    },
+    "types": [
+      "flying",
+      "water"
+    ],
+    "aliases": {
+      "french": "Nigosier",
+      "german": "Urgl",
+      "english": "Cramorant"
+    },
+    "description": "It’s so strong that it can knock out some opponents in a single hit, but it also may forget what it’s battling midfight.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "toxtricity-amped",
+    "base_stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 70,
+      "special-attack": 114,
+      "special-defense": 70,
+      "speed": 75
+    },
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "aliases": {
+      "french": "Salarsen",
+      "german": "Riffex",
+      "english": "Toxtricity"
+    },
+    "description": "When this Pokémon sounds as if it’s strumming a guitar, it’s actually clawing at the protrusions on its chest to generate electricity.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "toxtricity-low-key",
+    "base_stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 70,
+      "special-attack": 114,
+      "special-defense": 70,
+      "speed": 75
+    },
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "aliases": {
+      "french": "Salarsen",
+      "german": "Riffex",
+      "english": "Toxtricity"
+    },
+    "description": "When this Pokémon sounds as if it’s strumming a guitar, it’s actually clawing at the protrusions on its chest to generate electricity.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "gmax-toxtricity-amped",
+    "base_stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 70,
+      "special-attack": 114,
+      "special-defense": 70,
+      "speed": 75
+    },
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "aliases": {
+      "french": "Salarsen",
+      "german": "Riffex",
+      "english": "Toxtricity"
+    },
+    "description": "When this Pokémon sounds as if it’s strumming a guitar, it’s actually clawing at the protrusions on its chest to generate electricity.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "gmax-toxtricity-low-key",
+    "base_stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 70,
+      "special-attack": 114,
+      "special-defense": 70,
+      "speed": 75
+    },
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "aliases": {
+      "french": "Salarsen",
+      "german": "Riffex",
+      "english": "Toxtricity"
+    },
+    "description": "When this Pokémon sounds as if it’s strumming a guitar, it’s actually clawing at the protrusions on its chest to generate electricity.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "gmax-centiskorch",
+    "base_stats": {
+      "hp": 100,
+      "attack": 115,
+      "defense": 65,
+      "special-attack": 90,
+      "special-defense": 90,
+      "speed": 65
+    },
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "aliases": {
+      "french": "Scolocendre",
+      "german": "Infernopod",
+      "english": "Centiskorch"
+    },
+    "description": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
+    "region": "galar",
+    "dex_no": 851
+  },
+  {
+    "form_name": "gmax-hatterene",
+    "base_stats": {
+      "hp": 57,
+      "attack": 90,
+      "defense": 95,
+      "special-attack": 136,
+      "special-defense": 103,
+      "speed": 29
+    },
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "aliases": {
+      "french": "Sorcilence",
+      "german": "Silembrim",
+      "english": "Hatterene"
+    },
+    "description": "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
+    "region": "galar",
+    "dex_no": 858
+  },
+  {
+    "form_name": "gmax-grimmsnarl",
+    "base_stats": {
+      "hp": 95,
+      "attack": 120,
+      "defense": 65,
+      "special-attack": 95,
+      "special-defense": 75,
+      "speed": 60
+    },
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "aliases": {
+      "french": "Angoliath",
+      "german": "Olangaar",
+      "english": "Grimmsnarl"
+    },
+    "description": "With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.",
+    "region": "galar",
+    "dex_no": 861
+  },
+  {
+    "form_name": "gmax-alcremie",
+    "base_stats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 75,
+      "special-attack": 110,
+      "special-defense": 121,
+      "speed": 64
+    },
+    "types": [
+      "fairy"
+    ],
+    "aliases": {
+      "french": "Charmilly",
+      "german": "Pokusan",
+      "english": "Alcremie"
+    },
+    "description": "When it trusts a Trainer, it will treat them to berries it’s decorated with cream.",
+    "region": "galar",
+    "dex_no": 869
+  },
+  {
+    "form_name": "gmax-copperajah",
+    "base_stats": {
+      "hp": 122,
+      "attack": 130,
+      "defense": 69,
+      "special-attack": 80,
+      "special-defense": 69,
+      "speed": 30
+    },
+    "types": [
+      "steel"
+    ],
+    "aliases": {
+      "french": "Pachyradjah",
+      "german": "Patinaraja",
+      "english": "Copperajah"
+    },
+    "description": "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
+    "region": "galar",
+    "dex_no": 879
+  },
+  {
+    "form_name": "gmax-duraludon",
+    "base_stats": {
+      "hp": 70,
+      "attack": 95,
+      "defense": 115,
+      "special-attack": 120,
+      "special-defense": 50,
+      "speed": 85
+    },
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Duralugon",
+      "german": "Duraludon",
+      "english": "Duraludon"
+    },
+    "description": "Its body resembles polished metal, and it’s both lightweight and strong. The only drawback is that it rusts easily.",
+    "region": "galar",
+    "dex_no": 884
+  },
+  {
+    "form_name": "eternatus-eternamax",
+    "base_stats": {
+      "hp": 255,
+      "attack": 115,
+      "defense": 250,
+      "special-attack": 125,
+      "special-defense": 250,
+      "speed": 130
+    },
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Éthernatos",
+      "german": "Endynalos",
+      "english": "Eternatus"
+    },
+    "description": "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "urshifu-single-strike",
+    "base_stats": {
+      "hp": 100,
+      "attack": 130,
+      "defense": 100,
+      "special-attack": 63,
+      "special-defense": 60,
+      "speed": 97
+    },
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "aliases": {
+      "french": "Shifours",
+      "german": "Wulaosu",
+      "english": "Urshifu"
+    },
+    "description": "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "urshifu-rapid-strike",
+    "base_stats": {
+      "hp": 100,
+      "attack": 130,
+      "defense": 100,
+      "special-attack": 63,
+      "special-defense": 60,
+      "speed": 97
+    },
+    "types": [
+      "fighting",
+      "water"
+    ],
+    "aliases": {
+      "french": "Shifours",
+      "german": "Wulaosu",
+      "english": "Urshifu"
+    },
+    "description": "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "gmax-urshifu-single-strike",
+    "base_stats": {
+      "hp": 100,
+      "attack": 130,
+      "defense": 100,
+      "special-attack": 63,
+      "special-defense": 60,
+      "speed": 97
+    },
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "aliases": {
+      "french": "Shifours",
+      "german": "Wulaosu",
+      "english": "Urshifu"
+    },
+    "description": "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "gmax-urshifu-rapid-strike",
+    "base_stats": {
+      "hp": 100,
+      "attack": 130,
+      "defense": 100,
+      "special-attack": 63,
+      "special-defense": 60,
+      "speed": 97
+    },
+    "types": [
+      "fighting",
+      "water"
+    ],
+    "aliases": {
+      "french": "Shifours",
+      "german": "Wulaosu",
+      "english": "Urshifu"
+    },
+    "description": "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "zarude-dada",
+    "base_stats": {
+      "hp": 105,
+      "attack": 120,
+      "defense": 105,
+      "special-attack": 70,
+      "special-defense": 95,
+      "speed": 105
+    },
+    "types": [
+      "dark",
+      "grass"
+    ],
+    "aliases": {
+      "french": "Zarude",
+      "german": "Zarude",
+      "english": "Zarude"
+    },
+    "description": "Within dense forests, this Pokémon lives in a pack with others of its kind. It’s incredibly aggressive, and the other Pokémon of the forest fear it.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "ursaluna-bloodmoon",
+    "base_stats": {
+      "hp": 113,
+      "attack": 70,
+      "defense": 120,
+      "special-attack": 135,
+      "special-defense": 65,
+      "speed": 52
+    },
+    "types": [
+      "ground",
+      "normal"
+    ],
+    "aliases": {
+      "french": "Ursaking",
+      "german": "Ursaluna",
+      "english": "Ursaluna"
+    },
+    "description": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "enamorus-incarnate",
+    "base_stats": {
+      "hp": 74,
+      "attack": 115,
+      "defense": 70,
+      "special-attack": 135,
+      "special-defense": 80,
+      "speed": 106
+    },
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "aliases": {
+      "french": "Amovénus",
+      "german": "Cupidos",
+      "english": "Enamorus"
+    },
+    "description": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "enamorus-therian",
+    "base_stats": {
+      "hp": 74,
+      "attack": 115,
+      "defense": 110,
+      "special-attack": 135,
+      "special-defense": 100,
+      "speed": 46
+    },
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "aliases": {
+      "french": "Amovénus",
+      "german": "Cupidos",
+      "english": "Enamorus"
+    },
+    "description": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.",
+    "region": "galar",
+    "dex_no": null
+  },
+  {
+    "form_name": "oinkologne-male",
+    "base_stats": {
+      "hp": 110,
+      "attack": 100,
+      "defense": 75,
+      "special-attack": 59,
+      "special-defense": 80,
+      "speed": 65
+    },
+    "types": [
+      "normal"
+    ],
+    "aliases": {
+      "french": "Fragroin",
+      "german": "Fragrunz",
+      "english": "Oinkologne"
+    },
+    "description": "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "oinkologne-female",
+    "base_stats": {
+      "hp": 115,
+      "attack": 90,
+      "defense": 70,
+      "special-attack": 59,
+      "special-defense": 90,
+      "speed": 65
+    },
+    "types": [
+      "normal"
+    ],
+    "aliases": {
+      "french": "Fragroin",
+      "german": "Fragrunz",
+      "english": "Oinkologne"
+    },
+    "description": "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "maushold-family-of-three",
+    "base_stats": {
+      "hp": 74,
+      "attack": 75,
+      "defense": 70,
+      "special-attack": 65,
+      "special-defense": 75,
+      "speed": 111
+    },
+    "types": [
+      "normal"
+    ],
+    "aliases": {
+      "french": "Famignol",
+      "german": "Famieps",
+      "english": "Maushold"
+    },
+    "description": "The two little ones just appeared one day. The group might be a family of related Pokémon, but nobody knows for sure.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "palafin-hero",
+    "base_stats": {
+      "hp": 100,
+      "attack": 160,
+      "defense": 97,
+      "special-attack": 106,
+      "special-defense": 87,
+      "speed": 100
+    },
+    "types": [
+      "water"
+    ],
+    "aliases": {
+      "french": "Superdofin",
+      "german": "Delfinator",
+      "english": "Palafin"
+    },
+    "description": "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "gimmighoul-roaming",
+    "base_stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 25,
+      "special-attack": 75,
+      "special-defense": 45,
+      "speed": 80
+    },
+    "types": [
+      "ghost"
+    ],
+    "aliases": {
+      "french": "Mordudor",
+      "german": "Gierspenst",
+      "english": "Gimmighoul"
+    },
+    "description": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "koraidon-limited-build",
+    "base_stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 115,
+      "special-attack": 85,
+      "special-defense": 100,
+      "speed": 135
+    },
+    "types": [
+      "fighting",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Koraidon",
+      "german": "Koraidon",
+      "english": "Koraidon"
+    },
+    "description": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "koraidon-sprinting-build",
+    "base_stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 115,
+      "special-attack": 85,
+      "special-defense": 100,
+      "speed": 135
+    },
+    "types": [
+      "fighting",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Koraidon",
+      "german": "Koraidon",
+      "english": "Koraidon"
+    },
+    "description": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "koraidon-swimming-build",
+    "base_stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 115,
+      "special-attack": 85,
+      "special-defense": 100,
+      "speed": 135
+    },
+    "types": [
+      "fighting",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Koraidon",
+      "german": "Koraidon",
+      "english": "Koraidon"
+    },
+    "description": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "koraidon-gliding-build",
+    "base_stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 115,
+      "special-attack": 85,
+      "special-defense": 100,
+      "speed": 135
+    },
+    "types": [
+      "fighting",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Koraidon",
+      "german": "Koraidon",
+      "english": "Koraidon"
+    },
+    "description": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "miraidon-low-power-mode",
+    "base_stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 100,
+      "special-attack": 135,
+      "special-defense": 115,
+      "speed": 135
+    },
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Miraidon",
+      "german": "Miraidon",
+      "english": "Miraidon"
+    },
+    "description": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "miraidon-drive-mode",
+    "base_stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 100,
+      "special-attack": 135,
+      "special-defense": 115,
+      "speed": 135
+    },
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Miraidon",
+      "german": "Miraidon",
+      "english": "Miraidon"
+    },
+    "description": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "miraidon-aquatic-mode",
+    "base_stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 100,
+      "special-attack": 135,
+      "special-defense": 115,
+      "speed": 135
+    },
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Miraidon",
+      "german": "Miraidon",
+      "english": "Miraidon"
+    },
+    "description": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "miraidon-glide-mode",
+    "base_stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 100,
+      "special-attack": 135,
+      "special-defense": 115,
+      "speed": 135
+    },
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "aliases": {
+      "french": "Miraidon",
+      "german": "Miraidon",
+      "english": "Miraidon"
+    },
+    "description": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "ogerpon-wellspring-mask",
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 84,
+      "special-attack": 60,
+      "special-defense": 96,
+      "speed": 110
+    },
+    "types": [
+      "grass",
+      "water"
+    ],
+    "aliases": {
+      "french": "Ogerpon",
+      "german": "Ogerpon",
+      "english": "Ogerpon"
+    },
+    "description": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "ogerpon-hearthflame-mask",
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 84,
+      "special-attack": 60,
+      "special-defense": 96,
+      "speed": 110
+    },
+    "types": [
+      "grass",
+      "fire"
+    ],
+    "aliases": {
+      "french": "Ogerpon",
+      "german": "Ogerpon",
+      "english": "Ogerpon"
+    },
+    "description": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "ogerpon-cornerstone-mask",
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 84,
+      "special-attack": 60,
+      "special-defense": 96,
+      "speed": 110
+    },
+    "types": [
+      "grass",
+      "rock"
+    ],
+    "aliases": {
+      "french": "Ogerpon",
+      "german": "Ogerpon",
+      "english": "Ogerpon"
+    },
+    "description": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "terapagos-terastal",
+    "base_stats": {
+      "hp": 95,
+      "attack": 95,
+      "defense": 110,
+      "special-attack": 105,
+      "special-defense": 110,
+      "speed": 85
+    },
+    "types": [
+      "normal"
+    ],
+    "aliases": {
+      "french": "Terapagos",
+      "german": "Terapagos",
+      "english": "Terapagos"
+    },
+    "description": "Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.",
+    "region": "paldea",
+    "dex_no": null
+  },
+  {
+    "form_name": "terapagos-stellar",
+    "base_stats": {
+      "hp": 160,
+      "attack": 105,
+      "defense": 110,
+      "special-attack": 130,
+      "special-defense": 110,
+      "speed": 85
+    },
+    "types": [
+      "normal"
+    ],
+    "aliases": {
+      "french": "Terapagos",
+      "german": "Terapagos",
+      "english": "Terapagos"
+    },
+    "description": "Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.",
+    "region": "paldea",
+    "dex_no": null
+  }
+]

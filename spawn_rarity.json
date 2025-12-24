@@ -1,0 +1,4442 @@
+[
+    {
+        "pokemon": "Abra",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Aron",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Axew",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Bellsprout",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Blipbug",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Bombirdier",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Bounsweet",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Bramblin",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Capsakid",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Caterpie",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Cetoddle",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Charcadet",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Cyclizar",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Dondozo",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Dreepy",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Duskull",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Fidough",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Finizen",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Flamigo",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Fletchling",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Flittle",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Frigibax",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Gastly",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Geodude",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Gimmighoul",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Glimmet",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Gothita",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Greavard",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Grubbin",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Hatenna",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Honedge",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Hoppip",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Horsea",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Impidimp",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Klawf",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Klink",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Lechonk",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Lillipup",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Litwick",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Lotad",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Machop",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Magnemite",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Mareep",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Maschiff",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Nacli",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Nidoran-m",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Nidoran-f",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Nymble",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Oddish",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Orthworm",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Pawmi",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Pidgey",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Pidove",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Pikipek",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Poliwag",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Porygon",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Ralts",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Rellor",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Rhyhorn",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Roggenrola",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Rolycoly",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Rookidee",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Sandile",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Scatterbug",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Seedot",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Sewaddle",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Shinx",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Shroodle",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Slakoth",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Smoliv",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Solosis",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Spheal",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Starly",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Swinub",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Tadbulb",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Tandemaus",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Tarountula",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Teddiursa",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Timburr",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Tinkatink",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Toedscool",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Togepi",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Trapinch",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Tympole",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Tynamo",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Vanillite",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Varoom",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Veluza",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Venipede",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Wattrel",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Weedle",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Whismur",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Wiglett",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Wurmple",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Zubat",
+        "chance": "1/223"
+    },
+    {
+        "pokemon": "Bagon",
+        "chance": "1/334"
+    },
+    {
+        "pokemon": "Beldum",
+        "chance": "1/334"
+    },
+    {
+        "pokemon": "Deino",
+        "chance": "1/334"
+    },
+    {
+        "pokemon": "Dratini",
+        "chance": "1/334"
+    },
+    {
+        "pokemon": "Gible",
+        "chance": "1/334"
+    },
+    {
+        "pokemon": "Goomy",
+        "chance": "1/334"
+    },
+    {
+        "pokemon": "Jangmo-o",
+        "chance": "1/334"
+    },
+    {
+        "pokemon": "Larvitar",
+        "chance": "1/334"
+    },
+    {
+        "pokemon": "Rattata",
+        "chance": "1/334"
+    },
+    {
+        "pokemon": "Roaming-Gimmighoul",
+        "chance": "1/334"
+    },
+    {
+        "pokemon": "Bulbasaur",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Charmander",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Chespin",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Chikorita",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Chimchar",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Cyndaquil",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Droopy-Tatsugiri",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Fennekin",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Froakie",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Fuecoco",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Grookey",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Litten",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Mudkip",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Oshawott",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Piplup",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Popplio",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Quaxly",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Rowlet",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Scorbunny",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Snivy",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Sobble",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Sprigatito",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Squirtle",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Stretchy-Tatsugiri",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Tatsugiri",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Tepig",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Torchic",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Totodile",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Treecko",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Turtwig",
+        "chance": "1/669"
+    },
+    {
+        "pokemon": "Aipom",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Amaura",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Anorith",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Applin",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Archen",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Arctibax",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Armarouge",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Arrokuda",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Baltoy",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Barboach",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Bayleef",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Bellibolt",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Bergmite",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Bidoof",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Binacle",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Blitzle",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Blue-Plumage-Squawkabilly",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Boldore",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Braixen",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Brambleghast",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Brionne",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Bronzor",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Buizel",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Buneary",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Bunnelby",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Burmy",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Cacnea",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Carkol",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Carvanha",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Cascoon",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Ceruledge",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Cetitan",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Chansey",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Charjabug",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Cherubi",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Chewtle",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Chinchou",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Clamperl",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Clauncher",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Clefairy",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Clobbopus",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Clodsire",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Combee",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Combusken",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Corphish",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Corvisquire",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Cottonee",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Crabrawler",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Cranidos",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Croagunk",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Croconaw",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Cubchoo",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Cubone",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Cufant",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Cutiefly",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Dachsbun",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Dartrix",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Darumaka",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Deerling",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Dewott",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Dewpider",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Diglett",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Doduo",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Dolliv",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Dottler",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Doublade",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Drakloak",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Drifloon",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Drilbur",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Drizzile",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Drowzee",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Ducklett",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Dudunsparce",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Duosion",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Dusclops",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Dwebble",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Eelektrik",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Eevee",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Ekans",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Electabuzz",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Electrike",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Elgyem",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Espathra",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Espurr",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Exeggcute",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Farigiraf",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Feebas",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Ferroseed",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Finneon",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Flaaffy",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Fletchinder",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Floette",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Fomantis",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Foongus",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Fraxure",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Frillish",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Frogadier",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Gholdengo",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Glameow",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Gligar",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Glimmora",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Gloom",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Golbat",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Goldeen",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Golett",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Gossifleur",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Gothorita",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Grafaiai",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Graveler",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Grimer",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Grotle",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Grovyle",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Growlithe",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Gulpin",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Gurdurr",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Hattrem",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Haunter",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Helioptile",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Herdier",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Hippopotas",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Hoothoot",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Houndour",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Houndstone",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Inkay",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Jigglypuff",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Joltik",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Kabuto",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Kadabra",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Kakuna",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Karrablast",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Kilowattrel",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Kirlia",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Klang",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Koffing",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Krabby",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Kricketot",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Krokorok",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Lairon",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Lampent",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Larvesta",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Ledyba",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Lickitung",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Lileep",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Litleo",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Lokix",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Lombre",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Loudred",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Luxio",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Mabosstiff",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Machoke",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Magikarp",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Magmar",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Magneton",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Makuhita",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Mankey",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Mareanie",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Marill",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Marshtomp",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Maushold",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Meditite",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Meowth",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Metapod",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Mienfoo",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Milcery",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Minccino",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Misdreavus",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Monferno",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Morelull",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Morgrem",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Mudbray",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Munna",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Murkrow",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Naclstack",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Natu",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Nickit",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Nidorina",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Nidorino",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Nincada",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Noibat",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Nosepass",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Numel",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Nuzleaf",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Oinkologne",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Omanyte",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Onix",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Palafin",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Palpitoad",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Pancham",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Panpour",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Pansage",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Pansear",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Paras",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Patrat",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Pawmo",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Pawniard",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Petilil",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Phanpy",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Phantump",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Pidgeotto",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Pignite",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Pikachu",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Piloswine",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Pineco",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Poliwhirl",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Ponyta",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Poochyena",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Porygon2",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Prinplup",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Psyduck",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Pumpkaboo",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Purrloin",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Quilava",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Quilladin",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Raboot",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Rabsca",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Remoraid",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Revavroom",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Rhydon",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Riolu",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Rockruff",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Roselia",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Rufflet",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Salandit",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Sandshrew",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Sandygast",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Scovillain",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Scraggy",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Scyther",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Seadra",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Sealeo",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Seel",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Sentret",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Servine",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Shellder",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Shellos",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Shelmet",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Shieldon",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Shroomish",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Shuppet",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Silcoon",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Silicobra",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Sinistea",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Sizzlipede",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Skiddo",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Skiploom",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Skitty",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Skorupi",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Skrelp",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Skwovet",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Slowpoke",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Slugma",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Sneasel",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Snom",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Snorunt",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Snover",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Snubbull",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Spearow",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Spewpa",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Spidops",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Spinarak",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Spoink",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Spritzee",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Squawkabilly",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Stantler",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Staravia",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Staryu",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Steenee",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Stufful",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Stunky",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Sunkern",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Surskit",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Swablu",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Swadloon",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Swirlix",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Taillow",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Tangela",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Tentacool",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Thwackey",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Tinkatuff",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Tirtouga",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Toedscruel",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Togetic",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Torracat",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Toxel",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Tranquill",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Trubbish",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Trumbeak",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Tyrogue",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Tyrunt",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Ursaring",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Vanillish",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Venonat",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Vibrava",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Vigoroth",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Voltorb",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Vullaby",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Vulpix",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Wailmer",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Weepinbell",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Whirlipede",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "White-Plumage-Squawkabilly",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Wimpod",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Wingull",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Woobat",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Wooloo",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Wooper",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Wugtrio",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Yamask",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Yamper",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Yanma",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Yellow-Plumage-Squawkabilly",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Yungoos",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Zigzagoon",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Zorua",
+        "chance": "1/892"
+    },
+    {
+        "pokemon": "Charmeleon",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Crocalor",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Dragonair",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Floragato",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Gabite",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Hakamo-o",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Ivysaur",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Metang",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Pupitar",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Quaxwell",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Raticate",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Shelgon",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Sliggoo",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Wartortle",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Zweilous",
+        "chance": "1/1337"
+    },
+    {
+        "pokemon": "Abomasnow",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Absol",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Accelgor",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Aegislash-Shield",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Aegislash-Blade",
+        "chance": "1/14384"
+    },
+    {
+        "pokemon": "Aerodactyl",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Aggron",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Alakazam",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Alcremie",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Alomomola",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Altaria",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ambipom",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Amoonguss",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Amped Toxtricity",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ampharos",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Annihilape",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Appletun",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Araquanid",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Arbok",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Arboliva",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Arcanine",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Archeops",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Arctovish",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Arctozolt",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ariados",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Armaldo",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Aromatisse",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Audino",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Aurorus",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Avalugg",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Azumarill",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Azurill",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Banette",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Barbaracle",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Barraskewda",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Basculin",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Bastiodon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Baxcalibur",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Beartic",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Beautifly",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Beedrill",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Beheeyem",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Bellossom",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Bewear",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Bibarel",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Bisharp",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Blastoise",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Blaziken",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Blissey",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Boltund",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Bonsly",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Bouffalant",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Braviary",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Breloom",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Bronzong",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Bruxish",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Budew",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Butterfree",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Cacturne",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Camerupt",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Carbink",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Carnivine",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Carracosta",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Castform",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Centiskorch",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Chandelure",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Charizard",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Chatot",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Cherrim",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Chesnaught",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Chimecho",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Chingling",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Cinccino",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Cinderace",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Clawitzer",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Claydol",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Clefable",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Cleffa",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Cloyster",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Coalossal",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Cofagrigus",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Comfey",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Conkeldurr",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Copperajah",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Corsola",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Corviknight",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Crabominable",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Cradily",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Cramorant",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Crawdaunt",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Crobat",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Crustle",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Cryogonal",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Darmanitan",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Decidueye",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dedenne",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Delcatty",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Delibird",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Delphox",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dewgong",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dhelmise",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Diggersby",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dipplin",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ditto",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dodrio",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Donphan",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dracovish",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dracozolt",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dragalge",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dragapult",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Drampa",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Drapion",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Drednaw",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Drifblim",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Druddigon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dubwool",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dugtrio",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dunsparce",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Duraludon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Durant",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dusk Lycanroc",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dusknoir",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dustox",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Eelektross",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Eiscue",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Eldegoss",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Electivire",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Electrode",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Elekid",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Emboar",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Emolga",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Empoleon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Escavalier",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Espeon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Excadrill",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Exeggutor",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Exploud",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Falinks",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Farfetch'd",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Fearow",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Feraligatr",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ferrothorn",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Flapple",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Flareon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Floatzel",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Florges",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Flygon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Forretress",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Froslass",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Frosmoth",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Furfrou",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Furret",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gallade",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Galvantula",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Garbodor",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gardevoir",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Garganacl",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gastrodon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gengar",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gigalith",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Girafarig",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Glaceon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Glalie",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gliscor",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gogoat",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Golduck",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Golem",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Golisopod",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Golurk",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gorebyss",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gothitelle",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gourgeist",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Granbull",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Grapploct",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Greedent",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Greninja",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Grimmsnarl",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Grumpig",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gumshoos",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Gyarados",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Happiny",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Hariyama",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Hatterene",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Hawlucha",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Haxorus",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Heatmor",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Heliolisk",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Heracross",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Hero Palafin",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Hippowdon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Hitmonchan",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Hitmonlee",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Hitmontop",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Honchkrow",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Houndoom",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Huntail",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Hypno",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Igglybuff",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Illumise",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Incineroar",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Indeedee",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Infernape",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Inteleon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Jellicent",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Jolteon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Jumpluff",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Jynx",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Kabutops",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Kangaskhan",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Kecleon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Kingambit",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Kingdra",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Kingler",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Kleavor",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Klefki",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Klinklang",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Komala",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Kricketune",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Krookodile",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Lanturn",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Lapras",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Leafeon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Leavanny",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ledian",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Lickilicky",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Liepard",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Lilligant",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Linoone",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Lopunny",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Low Key Toxtricity",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Lucario",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ludicolo",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Lumineon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Lunatone",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Lurantis",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Luvdisc",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Luxray",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Lycanroc",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Machamp",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Magby",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Magcargo",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Magmortar",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Magnezone",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Malamar",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mamoswine",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mandibuzz",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Manectric",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mantine",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mantyke",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Maractus",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Marowak",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Masquerain",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mawile",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Medicham",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Meganium",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Meowscarada",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Meowstic",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Midnight Lycanroc",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mienshao",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mightyena",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Milotic",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Miltank",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mime Jr.",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mimikyu",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Minior",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Orange-Minior",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Yellow-Minior",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Green-Minior",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Blue-Minior",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Indigo-Minior",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Violet-Minior",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Minun",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mismagius",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Morpeko",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mothim",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mr. Mime",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Mudsdale",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Muk",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Munchlax",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Musharna",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Nidoking",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Nidoqueen",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ninetales",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ninjask",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Noctowl",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Noivern",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Octillery",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Omastar",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Oranguru",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Orbeetle",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Oricorio",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Oricorio-Pau",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Pachirisu",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Palossand",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Pangoro",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Parasect",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Passimian",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Pawmot",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Pelipper",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Persian",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Pichu",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Pidgeot",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Pincurchin",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Pinsir",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Plusle",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Politoed",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Poliwrath",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Poltchageist",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Polteageist",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Oricorio-Pom-Pom",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Porygon-Z",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Primarina",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Primeape",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Probopass",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Purugly",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Pyroar",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Pyukumuku",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Quagsire",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Quaquaval",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Qwilfish",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Raichu",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Castform-Rainy",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Rampardos",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Rapidash",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Relicanth",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Reuniclus",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Rhyperior",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ribombee",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Rillaboom",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Roserade",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sableye",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Salazzle",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Samurott",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sandaconda",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sandslash",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Wormadam-Sandy",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sawk",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sawsbuck",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sceptile",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Scizor",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Scolipede",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Scrafty",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Seaking",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Seismitoad",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Oricorio-Sensu",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Serperior",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Seviper",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sharpedo",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Shedinja",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Shiftry",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Shiinotic",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Shuckle",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sigilyph",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Simipour",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Simisage",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Simisear",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Skarmory",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Skeledirge",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Skuntank",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Slaking",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Slowbro",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Slowking",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Slurpuff",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Smeargle",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Smoochum",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Snorlax",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Castform-Snowy",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Solrock",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Spinda",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Spiritomb",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Staraptor",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Starmie",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Steelix",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Stonjourner",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Stoutland",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Stunfisk",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sudowoodo",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sunflora",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Castform-Sunny",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Swalot",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Swampert",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Swanna",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Swellow",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Swoobat",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Sylveon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Talonflame",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Tangrowth",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Tauros",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Tentacruel",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Thievul",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Throh",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Tinkaton",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Togedemaru",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Togekiss",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Torkoal",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Torterra",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Toucannon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Toxapex",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Toxicroak",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Wormadam-Trash",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Trevenant",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Tropius",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Tsareena",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Turtonator",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Typhlosion",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Tyrantrum",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Umbreon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Unfezant",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Unown",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Ursaluna",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Vanilluxe",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Vaporeon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Venomoth",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Venusaur",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Vespiquen",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Victreebel",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Vikavolt",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Vileplume",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Vivillon",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Volbeat",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Volcarona",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Wailord",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Walrein",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Watchog",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Weavile",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Weezing",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Whimsicott",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Whiscash",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "White-Striped Basculin",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Wigglytuff",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Wishiwashi",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Wobbuffet",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Wormadam",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Wynaut",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Wyrdeer",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Xatu",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Yanmega",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Zangoose",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Zebstrika",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Zoroark",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Dragonite",
+        "chance": "1/5349"
+    },
+    {
+        "pokemon": "Garchomp",
+        "chance": "1/5349"
+    },
+    {
+        "pokemon": "Goodra",
+        "chance": "1/5349"
+    },
+    {
+        "pokemon": "Hydreigon",
+        "chance": "1/5349"
+    },
+    {
+        "pokemon": "Kommo-o",
+        "chance": "1/5349"
+    },
+    {
+        "pokemon": "Metagross",
+        "chance": "1/5349"
+    },
+    {
+        "pokemon": "Salamence",
+        "chance": "1/5349"
+    },
+    {
+        "pokemon": "School Wishiwashi",
+        "chance": "1/5349"
+    },
+    {
+        "pokemon": "Tyranitar",
+        "chance": "1/5349"
+    },
+    {
+        "pokemon": "Alolan-Diglett",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Alolan-Geodude",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Alolan-Grimer",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Alolan-Meowth",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Alolan-Raichu",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Alolan-Rattata",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Alolan-Sandshrew",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Alolan-Vulpix",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Archaludon",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Basculegion",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Blade Aegislash",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Fezandipiti",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Galarian-Corsola",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Galarian-Darmanitan",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Galarian-Farfetch'd",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Galarian-Linoone",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Galarian-Meowth",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Galarian-Ponyta",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Galarian-Slowpoke",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Galarian-Yamask",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Galarian-Zen-Darmanitan",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Hydrapple",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Munkidori",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Noice Face Eiscue",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Okidogi",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Sinistcha",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Sneasler",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Zen Darmanitan",
+        "chance": "1/14265"
+    },
+    {
+        "pokemon": "Rotom-Fan",
+        "chance": "1/21397"
+    },
+    {
+        "pokemon": "Rotom-Frost",
+        "chance": "1/21397"
+    },
+    {
+        "pokemon": "Rotom-Heat",
+        "chance": "1/21397"
+    },
+    {
+        "pokemon": "Rotom-Mow",
+        "chance": "1/21397"
+    },
+    {
+        "pokemon": "Rotom",
+        "chance": "1/21397"
+    },
+    {
+        "pokemon": "Rotom-Wash",
+        "chance": "1/21397"
+    },
+    {
+        "pokemon": "Alolan-Dugtrio",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Alolan-Exeggutor",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Alolan-Graveler",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Alolan-Marowak",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Alolan-Muk",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Alolan-Ninetales",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Alolan-Persian",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Alolan-Raticate",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Alolan-Sandslash",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Arceus",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Attack-Deoxys",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Celebi",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Darkrai",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Defense-Deoxys",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Deoxys",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Diancie",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Galarian-Darumaka",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Galarian-Mr-Mime",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Galarian-Rapidash",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Galarian-Slowbro",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Galarian-Stunfisk",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Galarian-Weezing",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Galarian-Zigzagoon",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Genesect",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Hoopa",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Jirachi",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Keldeo",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Magearna",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Manaphy",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Marshadow",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Melmetal",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Meloetta",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Meltan",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Mew",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Obstagoon",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Overqwil",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Pecharunt",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Perrserker",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Phione",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Runerigus",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Shaymin",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Sirfetch'd",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Speed-Deoxys",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Victini",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Volcanion",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Zarude",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Zeraora",
+        "chance": "1/28530"
+    },
+    {
+        "pokemon": "Dada Zarude",
+        "chance": "1/34236"
+    },
+    {
+        "pokemon": "Zenith-Marshadow",
+        "chance": "1/34236"
+    },
+    {
+        "pokemon": "Zygarde-Cell",
+        "chance": "1/34236"
+    },
+    {
+        "pokemon": "Zygarde-Core",
+        "chance": "1/34236"
+    },
+    {
+        "pokemon": "Brute-Bonnet",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Flutter-Mane",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Gouging-Fire",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Great-Tusk",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Iron-Boulder",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Iron-Bundle",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Iron-Crown",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Iron-Hands",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Iron-Jugulis",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Iron-Leaves",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Iron-Moth",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Iron-Thorns",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Iron-Treads",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Iron-Valiant",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Koraidon",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Miraidon",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Raging-Bolt",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Roaring-Moon",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Sandy-Shocks",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Scream-Tail",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Slither-Wing",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "Walking-Wake",
+        "chance": "1/42794"
+    },
+    {
+        "pokemon": "10%-Zygarde",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Alolan-Golem",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Articuno",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Azelf",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Calyrex",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Chi-Yu",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Chien-Pao",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Cobalion",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Zygarde",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Cosmoem",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Cosmog",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Cresselia",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Dialga",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Enamorus",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Entei",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Eternatus",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Galarian-Slowking",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Giratina",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Glastrier",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Groudon",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Heatran",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Ho-Oh",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Kubfu",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Kyogre",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Kyurem",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Landorus",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Latias",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Latios",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Lugia",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Lunala",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Mesprit",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Mewtwo",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Moltres",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Mr-Rime",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Necrozma",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Ogerpon",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Palkia",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Raikou",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Rayquaza",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Regice",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Regidrago",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Regieleki",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Regigigas",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Regirock",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Registeel",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Reshiram",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Silvally",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Solgaleo",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Spectrier",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Suicune",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Tapu-Bulu",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Tapu-Fini",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Tapu-Koko",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Tapu-Lele",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Terapagos",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Terrakion",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Thundurus",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Ting-Lu",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Tornadus",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Type-Null",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Urshifu",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Uxie",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Virizion",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Wo-Chien",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Xerneas",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Yveltal",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Zacian",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Zamazenta",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Zapdos",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Zekrom",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Zygarde-10",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Zygarde-50",
+        "chance": "1/57059"
+    },
+    {
+        "pokemon": "Partner-Eevee",
+        "chance": "1/68471"
+    },
+    {
+        "pokemon": "Partner-Pikachu",
+        "chance": "1/68471"
+    },
+    {
+        "pokemon": "Blacephalon",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Buzzwole",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Celesteela",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Guzzlord",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Kartana",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Naganadel",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Nihilego",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Pheromosa",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Poipole",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Stakataka",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Xurkitree",
+        "chance": "1/114118"
+    },
+    {
+        "pokemon": "Galarian-Articuno",
+        "chance": "1/171178"
+    },
+    {
+        "pokemon": "Galarian-Moltres",
+        "chance": "1/171178"
+    },
+    {
+        "pokemon": "Galarian-Zapdos",
+        "chance": "1/171178"
+    },
+    {
+        "pokemon": "hangry-Morpeko",
+        "chance": "1/3566"
+    },
+    {
+        "pokemon": "Flabebe",
+        "chance": "1/237"
+    }
+]

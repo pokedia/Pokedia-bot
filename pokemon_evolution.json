@@ -1,0 +1,4662 @@
+{
+    "Bulbasaur": [
+        {
+            "To": "Ivysaur",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Ivysaur": [
+        {
+            "To": "Venusaur",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Charmander": [
+        {
+            "To": "Charmeleon",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Charmeleon": [
+        {
+            "To": "Charizard",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Squirtle": [
+        {
+            "To": "Wartortle",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Wartortle": [
+        {
+            "To": "Blastoise",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Caterpie": [
+        {
+            "To": "Metapod",
+            "Level": 7,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Metapod": [
+        {
+            "To": "Butterfree",
+            "Level": 10,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Weedle": [
+        {
+            "To": "Kakuna",
+            "Level": 7,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Kakuna": [
+        {
+            "To": "Beedrill",
+            "Level": 10,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pidgey": [
+        {
+            "To": "Pidgeotto",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pidgeotto": [
+        {
+            "To": "Pidgeot",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Rattata": [
+        {
+            "To": "Raticate",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Raticate",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Spearow": [
+        {
+            "To": "Fearow",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Ekans": [
+        {
+            "To": "Arbok",
+            "Level": 22,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pichu": [
+        {
+            "To": "Pikachu",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Pikachu": [
+        {
+            "To": "Raichu",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sandshrew": [
+        {
+            "To": "Sandslash",
+            "Level": 22,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Sandslash",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Nidoran-f": [
+        {
+            "To": "Nidorina",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Nidorina": [
+        {
+            "To": "Nidoqueen",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Nidoran-m": [
+        {
+            "To": "Nidorino",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Nidorino": [
+        {
+            "To": "Nidoking",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cleffa": [
+        {
+            "To": "Clefairy",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Clefairy": [
+        {
+            "To": "Clefable",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Vulpix": [
+        {
+            "To": "Ninetales",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Ninetales",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Igglybuff": [
+        {
+            "To": "Jigglypuff",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Jigglypuff": [
+        {
+            "To": "Wigglytuff",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Zubat": [
+        {
+            "To": "Golbat",
+            "Level": 22,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Golbat": [
+        {
+            "To": "Crobat",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Oddish": [
+        {
+            "To": "Gloom",
+            "Level": 21,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Gloom": [
+        {
+            "To": "Vileplume",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Bellossom",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Paras": [
+        {
+            "To": "Parasect",
+            "Level": 24,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Venonat": [
+        {
+            "To": "Venomoth",
+            "Level": 31,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Diglett": [
+        {
+            "To": "Dugtrio",
+            "Level": 26,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Meowth": [
+        {
+            "To": "Persian",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Persian",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        },
+        {
+            "To": "Perrserker",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Psyduck": [
+        {
+            "To": "Golduck",
+            "Level": 33,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Mankey": [
+        {
+            "To": "Primeape",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Primeape": [
+        {
+            "To": "Annihilape",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Growlithe": [
+        {
+            "To": "Arcanine",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Poliwag": [
+        {
+            "To": "Poliwhirl",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Poliwhirl": [
+        {
+            "To": "Poliwrath",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Politoed",
+            "Level": null,
+            "Item": "Kings rock",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Abra": [
+        {
+            "To": "Kadabra",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Kadabra": [
+        {
+            "To": "Alakazam",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Machop": [
+        {
+            "To": "Machoke",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Machoke": [
+        {
+            "To": "Machamp",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Bellsprout": [
+        {
+            "To": "Weepinbell",
+            "Level": 21,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Weepinbell": [
+        {
+            "To": "Victreebel",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tentacool": [
+        {
+            "To": "Tentacruel",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Geodude": [
+        {
+            "To": "Graveler",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Graveler": [
+        {
+            "To": "Golem",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Ponyta": [
+        {
+            "To": "Rapidash",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Slowpoke": [
+        {
+            "To": "Slowbro",
+            "Level": 37,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Slowbro",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Slowking",
+            "Level": null,
+            "Item": "Kings rock",
+            "level-up": false,
+            "trade": true
+        },
+        {
+            "To": "Slowking",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Magnemite": [
+        {
+            "To": "Magneton",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Magneton": [
+        {
+            "To": "Magnezone",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Magnezone",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Magnezone",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Magnezone",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Magnezone",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Farfetchd": [
+        {
+            "To": "Sirfetchd",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Doduo": [
+        {
+            "To": "Dodrio",
+            "Level": 31,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Seel": [
+        {
+            "To": "Dewgong",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Grimer": [
+        {
+            "To": "Muk",
+            "Level": 38,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Shellder": [
+        {
+            "To": "Cloyster",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Gastly": [
+        {
+            "To": "Haunter",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Haunter": [
+        {
+            "To": "Gengar",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Onix": [
+        {
+            "To": "Steelix",
+            "Level": null,
+            "Item": "Metal coat",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Drowzee": [
+        {
+            "To": "Hypno",
+            "Level": 26,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Krabby": [
+        {
+            "To": "Kingler",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Voltorb": [
+        {
+            "To": "Electrode",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Exeggcute": [
+        {
+            "To": "Exeggutor",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cubone": [
+        {
+            "To": "Marowak",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Marowak",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tyrogue": [
+        {
+            "To": "Hitmonlee",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Hitmonchan",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Hitmontop",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Lickitung": [
+        {
+            "To": "Lickilicky",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Koffing": [
+        {
+            "To": "Weezing",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Rhyhorn": [
+        {
+            "To": "Rhydon",
+            "Level": 42,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Rhydon": [
+        {
+            "To": "Rhyperior",
+            "Level": null,
+            "Item": "Protector",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Happiny": [
+        {
+            "To": "Chansey",
+            "Level": null,
+            "Item": "Oval stone",
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Chansey": [
+        {
+            "To": "Blissey",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Tangela": [
+        {
+            "To": "Tangrowth",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Kangaskhan": [],
+    "Horsea": [
+        {
+            "To": "Seadra",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Seadra": [
+        {
+            "To": "Kingdra",
+            "Level": null,
+            "Item": "Dragon scale",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Goldeen": [
+        {
+            "To": "Seaking",
+            "Level": 33,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Staryu": [
+        {
+            "To": "Starmie",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Mime-jr": [
+        {
+            "To": "Mr-mime",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Mr-mime": [
+        {
+            "To": "Mr-rime",
+            "Level": 42,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Scyther": [
+        {
+            "To": "Scizor",
+            "Level": null,
+            "Item": "Metal coat",
+            "level-up": false,
+            "trade": true
+        },
+        {
+            "To": "Kleavor",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Smoochum": [
+        {
+            "To": "Jynx",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Elekid": [
+        {
+            "To": "Electabuzz",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Electabuzz": [
+        {
+            "To": "Electivire",
+            "Level": null,
+            "Item": "Electirizer",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Magby": [
+        {
+            "To": "Magmar",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Magmar": [
+        {
+            "To": "Magmortar",
+            "Level": null,
+            "Item": "Magmarizer",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Pinsir": [],
+    "Tauros": [],
+    "Magikarp": [
+        {
+            "To": "Gyarados",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Lapras": [],
+    "Ditto": [],
+    "Eevee": [
+        {
+            "To": "Vaporeon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Jolteon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Flareon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Espeon",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        },
+        {
+            "To": "Umbreon",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        },
+        {
+            "To": "Leafeon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Leafeon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Leafeon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Leafeon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Glaceon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Glaceon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Glaceon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Glaceon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Sylveon",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Sylveon",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Porygon": [
+        {
+            "To": "Porygon2",
+            "Level": null,
+            "Item": "Up grade",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Porygon2": [
+        {
+            "To": "Porygon-z",
+            "Level": null,
+            "Item": "Dubious disc",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Omanyte": [
+        {
+            "To": "Omastar",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Kabuto": [
+        {
+            "To": "Kabutops",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Aerodactyl": [],
+    "Munchlax": [
+        {
+            "To": "Snorlax",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Articuno": [],
+    "Zapdos": [],
+    "Moltres": [],
+    "Dratini": [
+        {
+            "To": "Dragonair",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Dragonair": [
+        {
+            "To": "Dragonite",
+            "Level": 55,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Mewtwo": [],
+    "Mew": [],
+    "Chikorita": [
+        {
+            "To": "Bayleef",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Bayleef": [
+        {
+            "To": "Meganium",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cyndaquil": [
+        {
+            "To": "Quilava",
+            "Level": 14,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Quilava": [
+        {
+            "To": "Typhlosion",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Totodile": [
+        {
+            "To": "Croconaw",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Croconaw": [
+        {
+            "To": "Feraligatr",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sentret": [
+        {
+            "To": "Furret",
+            "Level": 15,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Hoothoot": [
+        {
+            "To": "Noctowl",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Ledyba": [
+        {
+            "To": "Ledian",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Spinarak": [
+        {
+            "To": "Ariados",
+            "Level": 22,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Chinchou": [
+        {
+            "To": "Lanturn",
+            "Level": 27,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Togepi": [
+        {
+            "To": "Togetic",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Togetic": [
+        {
+            "To": "Togekiss",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Natu": [
+        {
+            "To": "Xatu",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Mareep": [
+        {
+            "To": "Flaaffy",
+            "Level": 15,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Flaaffy": [
+        {
+            "To": "Ampharos",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Azurill": [
+        {
+            "To": "Marill",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Marill": [
+        {
+            "To": "Azumarill",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Bonsly": [
+        {
+            "To": "Sudowoodo",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Hoppip": [
+        {
+            "To": "Skiploom",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Skiploom": [
+        {
+            "To": "Jumpluff",
+            "Level": 27,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Aipom": [
+        {
+            "To": "Ambipom",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sunkern": [
+        {
+            "To": "Sunflora",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Yanma": [
+        {
+            "To": "Yanmega",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Wooper": [
+        {
+            "To": "Quagsire",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Clodsire",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Murkrow": [
+        {
+            "To": "Honchkrow",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Misdreavus": [
+        {
+            "To": "Mismagius",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Unown": [],
+    "Wynaut": [
+        {
+            "To": "Wobbuffet",
+            "Level": 15,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Girafarig": [
+        {
+            "To": "Farigiraf",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pineco": [
+        {
+            "To": "Forretress",
+            "Level": 31,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Dunsparce": [
+        {
+            "To": "Dudunsparce",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Gligar": [
+        {
+            "To": "Gliscor",
+            "Level": null,
+            "Item": "Razor fang",
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Snubbull": [
+        {
+            "To": "Granbull",
+            "Level": 23,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Qwilfish": [
+        {
+            "To": "Overqwil",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Shuckle": [],
+    "Heracross": [],
+    "Sneasel": [
+        {
+            "To": "Weavile",
+            "Level": null,
+            "Item": "Razor claw",
+            "level-up": true,
+            "trade": false
+        },
+        {
+            "To": "Sneasler",
+            "Level": null,
+            "Item": "Razor claw",
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Teddiursa": [
+        {
+            "To": "Ursaring",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Ursaring": [
+        {
+            "To": "Ursaluna",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Slugma": [
+        {
+            "To": "Magcargo",
+            "Level": 38,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Swinub": [
+        {
+            "To": "Piloswine",
+            "Level": 33,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Piloswine": [
+        {
+            "To": "Mamoswine",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Corsola": [
+        {
+            "To": "Cursola",
+            "Level": 38,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Remoraid": [
+        {
+            "To": "Octillery",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Delibird": [],
+    "Mantyke": [
+        {
+            "To": "Mantine",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Skarmory": [],
+    "Houndour": [
+        {
+            "To": "Houndoom",
+            "Level": 24,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Phanpy": [
+        {
+            "To": "Donphan",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Stantler": [
+        {
+            "To": "Wyrdeer",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Smeargle": [],
+    "Miltank": [],
+    "Raikou": [],
+    "Entei": [],
+    "Suicune": [],
+    "Larvitar": [
+        {
+            "To": "Pupitar",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pupitar": [
+        {
+            "To": "Tyranitar",
+            "Level": 55,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Lugia": [],
+    "Ho-oh": [],
+    "Celebi": [],
+    "Treecko": [
+        {
+            "To": "Grovyle",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Grovyle": [
+        {
+            "To": "Sceptile",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Torchic": [
+        {
+            "To": "Combusken",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Combusken": [
+        {
+            "To": "Blaziken",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Mudkip": [
+        {
+            "To": "Marshtomp",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Marshtomp": [
+        {
+            "To": "Swampert",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Poochyena": [
+        {
+            "To": "Mightyena",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Zigzagoon": [
+        {
+            "To": "Linoone",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Linoone": [
+        {
+            "To": "Obstagoon",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Wurmple": [
+        {
+            "To": "Silcoon",
+            "Level": 7,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Cascoon",
+            "Level": 7,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Silcoon": [
+        {
+            "To": "Beautifly",
+            "Level": 10,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cascoon": [
+        {
+            "To": "Dustox",
+            "Level": 10,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Lotad": [
+        {
+            "To": "Lombre",
+            "Level": 14,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Lombre": [
+        {
+            "To": "Ludicolo",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Seedot": [
+        {
+            "To": "Nuzleaf",
+            "Level": 14,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Nuzleaf": [
+        {
+            "To": "Shiftry",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Taillow": [
+        {
+            "To": "Swellow",
+            "Level": 22,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Wingull": [
+        {
+            "To": "Pelipper",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Ralts": [
+        {
+            "To": "Kirlia",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Kirlia": [
+        {
+            "To": "Gardevoir",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Gallade",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Surskit": [
+        {
+            "To": "Masquerain",
+            "Level": 22,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Shroomish": [
+        {
+            "To": "Breloom",
+            "Level": 23,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Slakoth": [
+        {
+            "To": "Vigoroth",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Vigoroth": [
+        {
+            "To": "Slaking",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Nincada": [
+        {
+            "To": "Ninjask",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Shedinja",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Whismur": [
+        {
+            "To": "Loudred",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Loudred": [
+        {
+            "To": "Exploud",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Makuhita": [
+        {
+            "To": "Hariyama",
+            "Level": 24,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Nosepass": [
+        {
+            "To": "Probopass",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Probopass",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Probopass",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Probopass",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Skitty": [
+        {
+            "To": "Delcatty",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sableye": [],
+    "Mawile": [],
+    "Aron": [
+        {
+            "To": "Lairon",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Lairon": [
+        {
+            "To": "Aggron",
+            "Level": 42,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Meditite": [
+        {
+            "To": "Medicham",
+            "Level": 37,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Electrike": [
+        {
+            "To": "Manectric",
+            "Level": 26,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Plusle": [],
+    "Minun": [],
+    "Volbeat": [],
+    "Illumise": [],
+    "Budew": [
+        {
+            "To": "Roselia",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Roselia": [
+        {
+            "To": "Roserade",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Gulpin": [
+        {
+            "To": "Swalot",
+            "Level": 26,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Carvanha": [
+        {
+            "To": "Sharpedo",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Wailmer": [
+        {
+            "To": "Wailord",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Numel": [
+        {
+            "To": "Camerupt",
+            "Level": 33,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Torkoal": [],
+    "Spoink": [
+        {
+            "To": "Grumpig",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Spinda": [],
+    "Trapinch": [
+        {
+            "To": "Vibrava",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Vibrava": [
+        {
+            "To": "Flygon",
+            "Level": 45,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cacnea": [
+        {
+            "To": "Cacturne",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Swablu": [
+        {
+            "To": "Altaria",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Zangoose": [],
+    "Seviper": [],
+    "Lunatone": [],
+    "Solrock": [],
+    "Barboach": [
+        {
+            "To": "Whiscash",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Corphish": [
+        {
+            "To": "Crawdaunt",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Baltoy": [
+        {
+            "To": "Claydol",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Lileep": [
+        {
+            "To": "Cradily",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Anorith": [
+        {
+            "To": "Armaldo",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Feebas": [
+        {
+            "To": "Milotic",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Milotic",
+            "Level": null,
+            "Item": "Prism scale",
+            "level-up": false,
+            "trade": true
+        },
+        {
+            "To": "Milotic",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Castform": [],
+    "Kecleon": [],
+    "Shuppet": [
+        {
+            "To": "Banette",
+            "Level": 37,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Duskull": [
+        {
+            "To": "Dusclops",
+            "Level": 37,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Dusclops": [
+        {
+            "To": "Dusknoir",
+            "Level": null,
+            "Item": "Reaper cloth",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Tropius": [],
+    "Chingling": [
+        {
+            "To": "Chimecho",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Absol": [],
+    "Snorunt": [
+        {
+            "To": "Glalie",
+            "Level": 42,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Froslass",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Spheal": [
+        {
+            "To": "Sealeo",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sealeo": [
+        {
+            "To": "Walrein",
+            "Level": 44,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Clamperl": [
+        {
+            "To": "Huntail",
+            "Level": null,
+            "Item": "Deep sea tooth",
+            "level-up": false,
+            "trade": true
+        },
+        {
+            "To": "Gorebyss",
+            "Level": null,
+            "Item": "Deep sea scale",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Relicanth": [],
+    "Luvdisc": [],
+    "Bagon": [
+        {
+            "To": "Shelgon",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Shelgon": [
+        {
+            "To": "Salamence",
+            "Level": 50,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Beldum": [
+        {
+            "To": "Metang",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Metang": [
+        {
+            "To": "Metagross",
+            "Level": 45,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Regirock": [],
+    "Regice": [],
+    "Registeel": [],
+    "Latias": [],
+    "Latios": [],
+    "Kyogre": [],
+    "Groudon": [],
+    "Rayquaza": [],
+    "Jirachi": [],
+    "Deoxys": [],
+    "Turtwig": [
+        {
+            "To": "Grotle",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Grotle": [
+        {
+            "To": "Torterra",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Chimchar": [
+        {
+            "To": "Monferno",
+            "Level": 14,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Monferno": [
+        {
+            "To": "Infernape",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Piplup": [
+        {
+            "To": "Prinplup",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Prinplup": [
+        {
+            "To": "Empoleon",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Starly": [
+        {
+            "To": "Staravia",
+            "Level": 14,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Staravia": [
+        {
+            "To": "Staraptor",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Bidoof": [
+        {
+            "To": "Bibarel",
+            "Level": 15,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Kricketot": [
+        {
+            "To": "Kricketune",
+            "Level": 10,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Shinx": [
+        {
+            "To": "Luxio",
+            "Level": 15,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Luxio": [
+        {
+            "To": "Luxray",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cranidos": [
+        {
+            "To": "Rampardos",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Shieldon": [
+        {
+            "To": "Bastiodon",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Burmy": [
+        {
+            "To": "Wormadam",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Mothim",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Combee": [
+        {
+            "To": "Vespiquen",
+            "Level": 21,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pachirisu": [],
+    "Buizel": [
+        {
+            "To": "Floatzel",
+            "Level": 26,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cherubi": [
+        {
+            "To": "Cherrim",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Shellos": [
+        {
+            "To": "Gastrodon",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Drifloon": [
+        {
+            "To": "Drifblim",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Buneary": [
+        {
+            "To": "Lopunny",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Glameow": [
+        {
+            "To": "Purugly",
+            "Level": 38,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Stunky": [
+        {
+            "To": "Skuntank",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Bronzor": [
+        {
+            "To": "Bronzong",
+            "Level": 33,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Chatot": [],
+    "Spiritomb": [],
+    "Gible": [
+        {
+            "To": "Gabite",
+            "Level": 24,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Gabite": [
+        {
+            "To": "Garchomp",
+            "Level": 48,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Riolu": [
+        {
+            "To": "Lucario",
+            "Level": null,
+            "Item": "Friendship bracelet",
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Hippopotas": [
+        {
+            "To": "Hippowdon",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Skorupi": [
+        {
+            "To": "Drapion",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Croagunk": [
+        {
+            "To": "Toxicroak",
+            "Level": 37,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Carnivine": [],
+    "Finneon": [
+        {
+            "To": "Lumineon",
+            "Level": 31,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Snover": [
+        {
+            "To": "Abomasnow",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Rotom": [],
+    "Uxie": [],
+    "Mesprit": [],
+    "Azelf": [],
+    "Dialga": [],
+    "Palkia": [],
+    "Heatran": [],
+    "Regigigas": [],
+    "Giratina": [],
+    "Cresselia": [],
+    "Phione": [],
+    "Darkrai": [],
+    "Shaymin": [],
+    "Arceus": [],
+    "Victini": [],
+    "Snivy": [
+        {
+            "To": "Servine",
+            "Level": 17,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Servine": [
+        {
+            "To": "Serperior",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tepig": [
+        {
+            "To": "Pignite",
+            "Level": 17,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pignite": [
+        {
+            "To": "Emboar",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Oshawott": [
+        {
+            "To": "Dewott",
+            "Level": 17,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Dewott": [
+        {
+            "To": "Samurott",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Patrat": [
+        {
+            "To": "Watchog",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Lillipup": [
+        {
+            "To": "Herdier",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Herdier": [
+        {
+            "To": "Stoutland",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Purrloin": [
+        {
+            "To": "Liepard",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pansage": [
+        {
+            "To": "Simisage",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pansear": [
+        {
+            "To": "Simisear",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Panpour": [
+        {
+            "To": "Simipour",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Munna": [
+        {
+            "To": "Musharna",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pidove": [
+        {
+            "To": "Tranquill",
+            "Level": 21,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tranquill": [
+        {
+            "To": "Unfezant",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Blitzle": [
+        {
+            "To": "Zebstrika",
+            "Level": 27,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Roggenrola": [
+        {
+            "To": "Boldore",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Boldore": [
+        {
+            "To": "Gigalith",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Woobat": [
+        {
+            "To": "Swoobat",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Drilbur": [
+        {
+            "To": "Excadrill",
+            "Level": 31,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Audino": [],
+    "Timburr": [
+        {
+            "To": "Gurdurr",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Gurdurr": [
+        {
+            "To": "Conkeldurr",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Tympole": [
+        {
+            "To": "Palpitoad",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Palpitoad": [
+        {
+            "To": "Seismitoad",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Throh": [],
+    "Sawk": [],
+    "Sewaddle": [
+        {
+            "To": "Swadloon",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Swadloon": [
+        {
+            "To": "Leavanny",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Venipede": [
+        {
+            "To": "Whirlipede",
+            "Level": 22,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Whirlipede": [
+        {
+            "To": "Scolipede",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cottonee": [
+        {
+            "To": "Whimsicott",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Petilil": [
+        {
+            "To": "Lilligant",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Basculin": [
+        {
+            "To": "Basculegion",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sandile": [
+        {
+            "To": "Krokorok",
+            "Level": 29,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Krokorok": [
+        {
+            "To": "Krookodile",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Darumaka": [
+        {
+            "To": "Darmanitan",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Darmanitan",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Maractus": [],
+    "Dwebble": [
+        {
+            "To": "Crustle",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Scraggy": [
+        {
+            "To": "Scrafty",
+            "Level": 39,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sigilyph": [],
+    "Yamask": [
+        {
+            "To": "Cofagrigus",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Runerigus",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tirtouga": [
+        {
+            "To": "Carracosta",
+            "Level": 37,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Archen": [
+        {
+            "To": "Archeops",
+            "Level": 37,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Trubbish": [
+        {
+            "To": "Garbodor",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Zorua": [
+        {
+            "To": "Zoroark",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Minccino": [
+        {
+            "To": "Cinccino",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Gothita": [
+        {
+            "To": "Gothorita",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Gothorita": [
+        {
+            "To": "Gothitelle",
+            "Level": 41,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Solosis": [
+        {
+            "To": "Duosion",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Duosion": [
+        {
+            "To": "Reuniclus",
+            "Level": 41,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Ducklett": [
+        {
+            "To": "Swanna",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Vanillite": [
+        {
+            "To": "Vanillish",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Vanillish": [
+        {
+            "To": "Vanilluxe",
+            "Level": 47,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Deerling": [
+        {
+            "To": "Sawsbuck",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Emolga": [],
+    "Karrablast": [
+        {
+            "To": "Escavalier",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Foongus": [
+        {
+            "To": "Amoonguss",
+            "Level": 39,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Frillish": [
+        {
+            "To": "Jellicent",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Alomomola": [],
+    "Joltik": [
+        {
+            "To": "Galvantula",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Ferroseed": [
+        {
+            "To": "Ferrothorn",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Klink": [
+        {
+            "To": "Klang",
+            "Level": 38,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Klang": [
+        {
+            "To": "Klinklang",
+            "Level": 49,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tynamo": [
+        {
+            "To": "Eelektrik",
+            "Level": 39,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Eelektrik": [
+        {
+            "To": "Eelektross",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Elgyem": [
+        {
+            "To": "Beheeyem",
+            "Level": 42,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Litwick": [
+        {
+            "To": "Lampent",
+            "Level": 41,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Lampent": [
+        {
+            "To": "Chandelure",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Axew": [
+        {
+            "To": "Fraxure",
+            "Level": 38,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Fraxure": [
+        {
+            "To": "Haxorus",
+            "Level": 48,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cubchoo": [
+        {
+            "To": "Beartic",
+            "Level": 37,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cryogonal": [],
+    "Shelmet": [
+        {
+            "To": "Accelgor",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Stunfisk": [],
+    "Mienfoo": [
+        {
+            "To": "Mienshao",
+            "Level": 50,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Druddigon": [],
+    "Golett": [
+        {
+            "To": "Golurk",
+            "Level": 43,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pawniard": [
+        {
+            "To": "Bisharp",
+            "Level": 52,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Bisharp": [
+        {
+            "To": "Kingambit",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Bouffalant": [],
+    "Rufflet": [
+        {
+            "To": "Braviary",
+            "Level": 54,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Vullaby": [
+        {
+            "To": "Mandibuzz",
+            "Level": 54,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Heatmor": [],
+    "Durant": [],
+    "Deino": [
+        {
+            "To": "Zweilous",
+            "Level": 50,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Zweilous": [
+        {
+            "To": "Hydreigon",
+            "Level": 64,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Larvesta": [
+        {
+            "To": "Volcarona",
+            "Level": 59,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cobalion": [],
+    "Terrakion": [],
+    "Virizion": [],
+    "Tornadus": [],
+    "Thundurus": [],
+    "Reshiram": [],
+    "Zekrom": [],
+    "Landorus": [],
+    "Kyurem": [],
+    "Keldeo": [],
+    "Meloetta": [],
+    "Genesect": [],
+    "Chespin": [
+        {
+            "To": "Quilladin",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Quilladin": [
+        {
+            "To": "Chesnaught",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Fennekin": [
+        {
+            "To": "Braixen",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Braixen": [
+        {
+            "To": "Delphox",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Froakie": [
+        {
+            "To": "Frogadier",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Frogadier": [
+        {
+            "To": "Greninja",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Bunnelby": [
+        {
+            "To": "Diggersby",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Fletchling": [
+        {
+            "To": "Fletchinder",
+            "Level": 17,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Fletchinder": [
+        {
+            "To": "Talonflame",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Scatterbug": [
+        {
+            "To": "Spewpa",
+            "Level": 9,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Spewpa": [
+        {
+            "To": "Vivillon",
+            "Level": 12,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Litleo": [
+        {
+            "To": "Pyroar",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Flabebe": [
+        {
+            "To": "Floette",
+            "Level": 19,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Floette": [
+        {
+            "To": "Florges",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Skiddo": [
+        {
+            "To": "Gogoat",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pancham": [
+        {
+            "To": "Pangoro",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Furfrou": [],
+    "Espurr": [
+        {
+            "To": "Meowstic",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Honedge": [
+        {
+            "To": "Doublade",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Doublade": [
+        {
+            "To": "Aegislash",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Spritzee": [
+        {
+            "To": "Aromatisse",
+            "Level": null,
+            "Item": "Sachet",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Swirlix": [
+        {
+            "To": "Slurpuff",
+            "Level": null,
+            "Item": "Whipped dream",
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Inkay": [
+        {
+            "To": "Malamar",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Binacle": [
+        {
+            "To": "Barbaracle",
+            "Level": 39,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Skrelp": [
+        {
+            "To": "Dragalge",
+            "Level": 48,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Clauncher": [
+        {
+            "To": "Clawitzer",
+            "Level": 37,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Helioptile": [
+        {
+            "To": "Heliolisk",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tyrunt": [
+        {
+            "To": "Tyrantrum",
+            "Level": 39,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Amaura": [
+        {
+            "To": "Aurorus",
+            "Level": 39,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Hawlucha": [],
+    "Dedenne": [],
+    "Carbink": [],
+    "Goomy": [
+        {
+            "To": "Sliggoo",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sliggoo": [
+        {
+            "To": "Goodra",
+            "Level": 50,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Klefki": [],
+    "Phantump": [
+        {
+            "To": "Trevenant",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Pumpkaboo": [
+        {
+            "To": "Gourgeist",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": true
+        }
+    ],
+    "Bergmite": [
+        {
+            "To": "Avalugg",
+            "Level": 37,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Noibat": [
+        {
+            "To": "Noivern",
+            "Level": 48,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Xerneas": [],
+    "Yveltal": [],
+    "Zygarde": [],
+    "Diancie": [],
+    "Hoopa": [],
+    "Volcanion": [],
+    "Rowlet": [
+        {
+            "To": "Dartrix",
+            "Level": 17,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Dartrix": [
+        {
+            "To": "Decidueye",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Litten": [
+        {
+            "To": "Torracat",
+            "Level": 17,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Torracat": [
+        {
+            "To": "Incineroar",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Popplio": [
+        {
+            "To": "Brionne",
+            "Level": 17,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Brionne": [
+        {
+            "To": "Primarina",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pikipek": [
+        {
+            "To": "Trumbeak",
+            "Level": 14,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Trumbeak": [
+        {
+            "To": "Toucannon",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Yungoos": [
+        {
+            "To": "Gumshoos",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Grubbin": [
+        {
+            "To": "Charjabug",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Charjabug": [
+        {
+            "To": "Vikavolt",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Vikavolt",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Crabrawler": [
+        {
+            "To": "Crabominable",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Oricorio": [],
+    "Cutiefly": [
+        {
+            "To": "Ribombee",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Rockruff": [
+        {
+            "To": "Lycanroc",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Lycanroc",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Lycanroc",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Wishiwashi": [],
+    "Mareanie": [
+        {
+            "To": "Toxapex",
+            "Level": 38,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Mudbray": [
+        {
+            "To": "Mudsdale",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Dewpider": [
+        {
+            "To": "Araquanid",
+            "Level": 22,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Fomantis": [
+        {
+            "To": "Lurantis",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Morelull": [
+        {
+            "To": "Shiinotic",
+            "Level": 24,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Salandit": [
+        {
+            "To": "Salazzle",
+            "Level": 33,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Stufful": [
+        {
+            "To": "Bewear",
+            "Level": 27,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Bounsweet": [
+        {
+            "To": "Steenee",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Steenee": [
+        {
+            "To": "Tsareena",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Comfey": [],
+    "Oranguru": [],
+    "Passimian": [],
+    "Wimpod": [
+        {
+            "To": "Golisopod",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sandygast": [
+        {
+            "To": "Palossand",
+            "Level": 42,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pyukumuku": [],
+    "Type-null": [
+        {
+            "To": "Silvally",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Minior": [],
+    "Komala": [],
+    "Turtonator": [],
+    "Togedemaru": [],
+    "Mimikyu": [],
+    "Bruxish": [],
+    "Drampa": [],
+    "Dhelmise": [],
+    "Jangmo-o": [
+        {
+            "To": "Hakamo-o",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Hakamo-o": [
+        {
+            "To": "Kommo-o",
+            "Level": 45,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tapu-koko": [],
+    "Tapu-lele": [],
+    "Tapu-bulu": [],
+    "Tapu-fini": [],
+    "Cosmog": [
+        {
+            "To": "Cosmoem",
+            "Level": 43,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cosmoem": [
+        {
+            "To": "Solgaleo",
+            "Level": 53,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Lunala",
+            "Level": 53,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Nihilego": [],
+    "Buzzwole": [],
+    "Pheromosa": [],
+    "Xurkitree": [],
+    "Celesteela": [],
+    "Kartana": [],
+    "Guzzlord": [],
+    "Necrozma": [],
+    "Magearna": [],
+    "Marshadow": [],
+    "Poipole": [
+        {
+            "To": "Naganadel",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Stakataka": [],
+    "Blacephalon": [],
+    "Zeraora": [],
+    "Meltan": [],
+    "Melmetal": [],
+    "Grookey": [
+        {
+            "To": "Thwackey",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Thwackey": [
+        {
+            "To": "Rillaboom",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Scorbunny": [
+        {
+            "To": "Raboot",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Raboot": [
+        {
+            "To": "Cinderace",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sobble": [
+        {
+            "To": "Drizzile",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Drizzile": [
+        {
+            "To": "Inteleon",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Skwovet": [
+        {
+            "To": "Greedent",
+            "Level": 24,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Rookidee": [
+        {
+            "To": "Corvisquire",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Corvisquire": [
+        {
+            "To": "Corviknight",
+            "Level": 38,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Blipbug": [
+        {
+            "To": "Dottler",
+            "Level": 10,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Dottler": [
+        {
+            "To": "Orbeetle",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Nickit": [
+        {
+            "To": "Thievul",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Gossifleur": [
+        {
+            "To": "Eldegoss",
+            "Level": 20,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Wooloo": [
+        {
+            "To": "Dubwool",
+            "Level": 24,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Chewtle": [
+        {
+            "To": "Drednaw",
+            "Level": 22,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Yamper": [
+        {
+            "To": "Boltund",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Rolycoly": [
+        {
+            "To": "Carkol",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Carkol": [
+        {
+            "To": "Coalossal",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Applin": [
+        {
+            "To": "Flapple",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Appletun",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Dipplin": [],
+    "Silicobra": [
+        {
+            "To": "Sandaconda",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cramorant": [],
+    "Arrokuda": [
+        {
+            "To": "Barraskewda",
+            "Level": 26,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Toxel": [
+        {
+            "To": "Toxtricity",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sizzlipede": [
+        {
+            "To": "Centiskorch",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Clobbopus": [
+        {
+            "To": "Grapploct",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Sinistea": [
+        {
+            "To": "Polteageist",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Hatenna": [
+        {
+            "To": "Hattrem",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Hattrem": [
+        {
+            "To": "Hatterene",
+            "Level": 42,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Impidimp": [
+        {
+            "To": "Morgrem",
+            "Level": 32,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Morgrem": [
+        {
+            "To": "Grimmsnarl",
+            "Level": 42,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Milcery": [
+        {
+            "To": "Alcremie",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Falinks": [],
+    "Pincurchin": [],
+    "Snom": [
+        {
+            "To": "Frosmoth",
+            "Level": null,
+            "Item": null,
+            "level-up": true,
+            "trade": false
+        }
+    ],
+    "Stonjourner": [],
+    "Eiscue": [],
+    "Indeedee": [],
+    "Morpeko": [],
+    "Cufant": [
+        {
+            "To": "Copperajah",
+            "Level": 34,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Dracozolt": [],
+    "Arctozolt": [],
+    "Dracovish": [],
+    "Arctovish": [],
+    "Duraludon": [],
+    "Dreepy": [
+        {
+            "To": "Drakloak",
+            "Level": 50,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Drakloak": [
+        {
+            "To": "Dragapult",
+            "Level": 60,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Zacian": [],
+    "Zamazenta": [],
+    "Eternatus": [],
+    "Kubfu": [
+        {
+            "To": "Urshifu",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Urshifu",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Zarude": [],
+    "Regieleki": [],
+    "Regidrago": [],
+    "Glastrier": [],
+    "Spectrier": [],
+    "Calyrex": [],
+    "Enamorus": [],
+    "Sprigatito": [
+        {
+            "To": "Floragato",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Floragato": [
+        {
+            "To": "Meowscarada",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Fuecoco": [
+        {
+            "To": "Crocalor",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Crocalor": [
+        {
+            "To": "Skeledirge",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Quaxly": [
+        {
+            "To": "Quaxwell",
+            "Level": 16,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Quaxwell": [
+        {
+            "To": "Quaquaval",
+            "Level": 36,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Lechonk": [
+        {
+            "To": "Oinkologne",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tarountula": [
+        {
+            "To": "Spidops",
+            "Level": 15,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Nymble": [
+        {
+            "To": "Lokix",
+            "Level": 24,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pawmi": [
+        {
+            "To": "Pawmo",
+            "Level": 18,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Pawmo": [
+        {
+            "To": "Pawmot",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tandemaus": [
+        {
+            "To": "Maushold",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Fidough": [
+        {
+            "To": "Dachsbun",
+            "Level": 26,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Smoliv": [
+        {
+            "To": "Dolliv",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Dolliv": [
+        {
+            "To": "Arboliva",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Squawkabilly": [],
+    "Nacli": [
+        {
+            "To": "Naclstack",
+            "Level": 24,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Naclstack": [
+        {
+            "To": "Garganacl",
+            "Level": 38,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Charcadet": [
+        {
+            "To": "Armarouge",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        },
+        {
+            "To": "Ceruledge",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tadbulb": [
+        {
+            "To": "Bellibolt",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Wattrel": [
+        {
+            "To": "Kilowattrel",
+            "Level": 25,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Maschiff": [
+        {
+            "To": "Mabosstiff",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Shroodle": [
+        {
+            "To": "Grafaiai",
+            "Level": 28,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Bramblin": [
+        {
+            "To": "Brambleghast",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Toedscool": [
+        {
+            "To": "Toedscruel",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Klawf": [],
+    "Capsakid": [
+        {
+            "To": "Scovillain",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Rellor": [
+        {
+            "To": "Rabsca",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Flittle": [
+        {
+            "To": "Espathra",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tinkatink": [
+        {
+            "To": "Tinkatuff",
+            "Level": 24,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Tinkatuff": [
+        {
+            "To": "Tinkaton",
+            "Level": 38,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Wiglett": [
+        {
+            "To": "Wugtrio",
+            "Level": 26,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Bombirdier": [],
+    "Finizen": [
+        {
+            "To": "Palafin",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Varoom": [
+        {
+            "To": "Revavroom",
+            "Level": 40,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Cyclizar": [],
+    "Orthworm": [],
+    "Glimmet": [
+        {
+            "To": "Glimmora",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Greavard": [
+        {
+            "To": "Houndstone",
+            "Level": 30,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Flamigo": [],
+    "Cetoddle": [
+        {
+            "To": "Cetitan",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Veluza": [],
+    "Dondozo": [],
+    "Tatsugiri": [],
+    "Great-tusk": [],
+    "Scream-tail": [],
+    "Brute-bonnet": [],
+    "Flutter-mane": [],
+    "Slither-wing": [],
+    "Sandy-shocks": [],
+    "Iron-treads": [],
+    "Iron-bundle": [],
+    "Iron-hands": [],
+    "Iron-jugulis": [],
+    "Iron-moth": [],
+    "Iron-thorns": [],
+    "Frigibax": [
+        {
+            "To": "Arctibax",
+            "Level": 35,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Arctibax": [
+        {
+            "To": "Baxcalibur",
+            "Level": 54,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Gimmighoul": [
+        {
+            "To": "Gholdengo",
+            "Level": null,
+            "Item": null,
+            "level-up": false,
+            "trade": false
+        }
+    ],
+    "Wo-chien": [],
+    "Chien-pao": [],
+    "Ting-lu": [],
+    "Chi-yu": [],
+    "Roaring-moon": [],
+    "Iron-valiant": [],
+    "Koraidon": [],
+    "Miraidon": [],
+    "Walking-wake": [],
+    "Iron-leaves": [],
+    "Poltchageist": [],
+    "Okidogi": [],
+    "Munkidori": [],
+    "Fezandipiti": [],
+    "Ogerpon": [],
+    "Gouging-fire": [],
+    "Raging-bolt": [],
+    "Iron-crown": [],
+    "Iron-boulder": [],
+    "Terapagos": [],
+    "Pecharunt": []
+}

@@ -1,0 +1,137 @@
+{
+  "catch_quests": [
+    {
+      "id": 101,
+      "description": "Catch 20 Electric-type Pokemon",
+      "type": "catch",
+      "target": 20,
+      "category": "electric"
+    },
+    {
+      "id": 102,
+      "description": "Catch 25 Fire-type Pokemon",
+      "type": "catch",
+      "target": 25,
+      "category": "fire"
+    },
+    {
+      "id": 103,
+      "description": "Catch 25 Grass-type Pokemon",
+      "type": "catch",
+      "target": 25,
+      "category": "grass"
+    },
+    {
+      "id": 104,
+      "description": "Catch 20 Dragon-type Pokemon",
+      "type": "catch",
+      "target": 20,
+      "category": "dragon"
+    },
+    {
+      "id": 106,
+      "description": "Catch 20 Water-type Pokemon",
+      "type": "catch",
+      "target": 20,
+      "category": "water"
+    },
+    {
+      "id": 107,
+      "description": "Catch 20 Ice-type Pokemon",
+      "type": "catch",
+      "target": 20,
+      "category": "ice"
+    },
+    {
+      "id": 201,
+      "description": "Catch 10 {name}",
+      "type": "catch",
+      "target": 10,
+      "specific": true
+    },
+    {
+      "id": 202,
+      "description": "Catch 20 {name}",
+      "type": "catch",
+      "target": 20,
+      "specific": true
+    },
+    {
+      "id": 101,
+      "description": "Catch 15 Fairy-type Pokemon",
+      "type": "catch",
+      "target": 15,
+      "category": "fairy"
+    },
+    {
+      "id": 101,
+      "description": "Catch 20 Ground-type Pokemon",
+      "type": "catch",
+      "target": 20,
+      "category": "ground"
+    },
+    {
+      "id": 101,
+      "description": "Catch 25 Normal-type Pokemon",
+      "type": "catch",
+      "target": 25,
+      "category": "normal"
+    },
+    {
+      "id": 101,
+      "description": "Catch 25 Flying-type Pokemon",
+      "type": "catch",
+      "target": 25,
+      "category": "flying"
+    },
+    {
+      "id": 101,
+      "description": "Catch 15 Poison-type Pokemon",
+      "type": "catch",
+      "target": 15,
+      "category": "poison"
+    },
+    {
+      "id": 101,
+      "description": "Catch 10 Steel-type Pokemon",
+      "type": "catch",
+      "target": 10,
+      "category": "steel"
+    },
+    {
+      "id": 101,
+      "description": "Catch 10 Dark-type Pokemon",
+      "type": "catch",
+      "target": 10,
+      "category": "dark"
+    },
+    {
+      "id": 101,
+      "description": "Catch 20 Ghost-type Pokemon",
+      "type": "catch",
+      "target": 20,
+      "category": "ghost"
+    },
+    {
+      "id": 101,
+      "description": "Catch 15 Fighting-type Pokemon",
+      "type": "catch",
+      "target": 15,
+      "category": "fighting"
+    },
+    {
+      "id": 101,
+      "description": "Catch 15 Psychic-type Pokemon",
+      "type": "catch",
+      "target": 15,
+      "category": "psychic"
+    },
+    {
+      "id": 101,
+      "description": "Catch 15 Rock-type Pokemon",
+      "type": "catch",
+      "target": 15,
+      "category": "rock"
+    }
+  ]
+}

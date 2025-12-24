@@ -1,0 +1,90 @@
+{
+  "dishes": [
+    {
+      "dish-name": "Torchic Fried Rice",
+      "ingredients": {
+        "rice": 3,
+        "egg": 2,
+        "vegetables": 4,
+        "soya sauce": 1,
+        "cooking oil": 1,
+        "salt": 2
+      },
+      "points": 7,
+      "image": "torchic.png"
+    },
+    {
+      "dish-name": "Miltank Creamy Pasta",
+      "ingredients": {
+        "flour": 4,
+        "milk": 2,
+        "butter": 2,
+        "cheese": 1,
+        "vegetables": 3,
+        "salt": 3
+      },
+      "points": 10,
+      "image": "miltank.png"
+    },
+    {
+      "dish-name": "Alcremie Sweet Pancakes",
+      "ingredients": {
+        "flour": 3,
+        "sugar": 3,
+        "egg": 2,
+        "milk": 3,
+        "syrup sauce": 1,
+        "butter": 2
+      },
+      "points": 8,
+      "image": "alcremie.png"
+    },
+    {
+      "dish-name": "Swirlix Macarons",
+      "ingredients": {
+        "flour": 2,
+        "sugar": 4,
+        "egg": 1,
+        "milk": 2,
+        "butter": 2
+      },
+      "points": 8,
+      "image": "swirlix.png"
+    },
+    {
+      "dish-name": "Milcery Milkshake",
+      "ingredients": {
+        "milk": 4,
+        "sugar": 2,
+        "fruits": 2,
+        "syrup sauce": 1
+      },
+      "points": 7,
+      "image": "milcery.png"
+    },
+    {
+      "dish-name": "Roselia Mojito",
+      "ingredients": {
+        "cold drink": 1,
+        "fruits": 3,
+        "vegetables": 2,
+        "syrup sauce": 1
+      },
+      "points": 8,
+      "image": "roselia.png"
+    },
+    {
+      "dish-name": "Abra's Cake",
+      "ingredients": {
+        "flour": 3,
+        "fruits": 2,
+        "sugar": 3,
+        "syrup sauce": 1,
+        "milk": 2,
+        "egg": 1
+      },
+      "points": 8,
+      "image": "abra.png"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+import discord
+from discord.ext import commands
+from utils.susp_check import is_not_suspended
+
+GUILD_ID = 1328824772066279554 # Your server ID
+GIFT_REWARD = 5  # Number of gift boxes per invite
+
+class InviteTracker(commands.Cog):
+    def __init__(self, bot):
+        self.bot = bot
+
+    async def fetch_invites(self):
+        guild = self.bot.get_guild(GUILD_ID)
+        if guild:
+            self.bot.invites = {invite.code: invite.uses for invite in await guild.invites()}
+        print("Fetched and stored invites:", self.bot.invites)
+
+    @commands.Cog.listener()
+    async def on_ready(self):
+        print(f"✅ InviteTracker Cog loaded.")
+        self.bot.invites = {}
+        guild = self.bot.get_guild(GUILD_ID)
+        if guild:
+            await self.fetch_invites()
+
+    @commands.Cog.listener()
+    async def on_member_join(self, member):
+        if member.guild.id != GUILD_ID:
+            return
+
+        if not hasattr(self.bot, 'invites') or not self.bot.invites:
+            await self.fetch_invites()
+
+        print(f"🚀 {member.name} joined. Fetching invites...")
+
+        invites = await member.guild.invites()
+        new_invites = {invite.code: invite.uses for invite in invites}
+        inviter = None
+
+        for code, uses in new_invites.items():
+            if code in self.bot.invites and uses > self.bot.invites[code]:
+                invite = discord.utils.get(invites, code=code)
+                inviter = invite.inviter
+                print(f"🎉 Inviter found: {inviter}")
+                break
+
+        self.bot.invites = new_invites
+
+        if inviter:
+            # Check if Tip Box entry exists for the inviter
+            row = await self.bot.db.fetchrow(
+                "SELECT value FROM inventory WHERE userid = $1 AND item_name = 'Tip Box'", inviter.id
+            )
+
+            if row:
+                # If it exists, increment the value by GIFT_REWARD
+                await self.bot.db.execute(
+                    "UPDATE inventory SET value = value + $1 WHERE userid = $2 AND item_name = 'Tip Box'",
+                    GIFT_REWARD, inviter.id
+                )
+            else:
+                # If not, insert new Tip Box record
+                await self.bot.db.execute(
+                    "INSERT INTO inventory (userid, item_name, value) VALUES ($1, 'Tip Box', $2)",
+                    inviter.id, GIFT_REWARD
+                )
+
+            try:
+                await inviter.send(f" You invited {member.name} and received 📦 {GIFT_REWARD} Tip boxes!")
+            except discord.Forbidden:
+                print(f"⚠️ Could not DM {inviter.name}, DMs are closed.")
+
+
+async def setup(bot):
+    await bot.add_cog(InviteTracker(bot))

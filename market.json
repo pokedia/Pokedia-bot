@@ -1,0 +1,127 @@
+{
+    "16": {
+        "owner_id": 1069577241098465331,
+        "market_id": 16,
+        "price": 111111111,
+        "pokemon": {
+            "pokemon_id": 2,
+            "name": "Weedle",
+            "level": 34,
+            "iv": 67.2,
+            "stats": {
+                "hp": {
+                    "value": 80,
+                    "iv": 26
+                },
+                "attack": {
+                    "value": 36,
+                    "iv": 22
+                },
+                "defense": {
+                    "value": 31,
+                    "iv": 19
+                },
+                "special-attack": {
+                    "value": 23,
+                    "iv": 13
+                },
+                "special-defense": {
+                    "value": 23,
+                    "iv": 13
+                },
+                "speed": {
+                    "value": 49,
+                    "iv": 31
+                },
+                "total_iv": 66.67
+            },
+            "xp": "0/1050",
+            "is_shiny": false,
+            "is_fusionable": false
+        }
+    },
+    "17": {
+        "owner_id": 1207976646980665348,
+        "market_id": 17,
+        "price": 1000000000000000,
+        "pokemon": {
+            "pokemon_id": 5,
+            "name": "Nidoran m",
+            "level": 10,
+            "iv": 61.83,
+            "stats": {
+                "hp": {
+                    "value": 31,
+                    "iv": 19
+                },
+                "attack": {
+                    "value": 18,
+                    "iv": 24
+                },
+                "defense": {
+                    "value": 14,
+                    "iv": 17
+                },
+                "special-attack": {
+                    "value": 14,
+                    "iv": 17
+                },
+                "special-defense": {
+                    "value": 14,
+                    "iv": 17
+                },
+                "speed": {
+                    "value": 17,
+                    "iv": 21
+                },
+                "total_iv": 61.83
+            },
+            "xp": "0/450",
+            "is_shiny": false,
+            "is_fusionable": false,
+            "selected": false
+        }
+    },
+    "18": {
+        "owner_id": 688983124868202496,
+        "market_id": 18,
+        "price": 6969696969696969696,
+        "pokemon": {
+            "pokemon_id": 29,
+            "name": "Froakie",
+            "level": 13,
+            "iv": 43.55,
+            "stats": {
+                "hp": {
+                    "value": 35,
+                    "iv": 11
+                },
+                "attack": {
+                    "value": 21,
+                    "iv": 14
+                },
+                "defense": {
+                    "value": 16,
+                    "iv": 10
+                },
+                "special-attack": {
+                    "value": 23,
+                    "iv": 16
+                },
+                "special-defense": {
+                    "value": 17,
+                    "iv": 11
+                },
+                "speed": {
+                    "value": 25,
+                    "iv": 19
+                },
+                "total_iv": 43.55
+            },
+            "xp": "0/525",
+            "is_shiny": true,
+            "is_fusionable": false,
+            "selected": false
+        }
+    }
+}

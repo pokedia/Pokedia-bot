@@ -1,0 +1,937 @@
+{
+    "0": {
+        "IV Percentage": 0.0,
+        "Possible Combinations": 1,
+        "Probability": 9e-10
+    },
+    "1": {
+        "IV Percentage": 0.54,
+        "Possible Combinations": 6,
+        "Probability": 5.6e-09
+    },
+    "2": {
+        "IV Percentage": 1.08,
+        "Possible Combinations": 21,
+        "Probability": 1.96e-08
+    },
+    "3": {
+        "IV Percentage": 1.61,
+        "Possible Combinations": 56,
+        "Probability": 5.22e-08
+    },
+    "4": {
+        "IV Percentage": 2.15,
+        "Possible Combinations": 126,
+        "Probability": 1.173e-07
+    },
+    "5": {
+        "IV Percentage": 2.69,
+        "Possible Combinations": 252,
+        "Probability": 2.347e-07
+    },
+    "6": {
+        "IV Percentage": 3.23,
+        "Possible Combinations": 462,
+        "Probability": 4.303e-07
+    },
+    "7": {
+        "IV Percentage": 3.76,
+        "Possible Combinations": 792,
+        "Probability": 7.376e-07
+    },
+    "8": {
+        "IV Percentage": 4.3,
+        "Possible Combinations": 1287,
+        "Probability": 1.1986e-06
+    },
+    "9": {
+        "IV Percentage": 4.84,
+        "Possible Combinations": 2002,
+        "Probability": 1.8645e-06
+    },
+    "10": {
+        "IV Percentage": 5.38,
+        "Possible Combinations": 3003,
+        "Probability": 2.7968e-06
+    },
+    "11": {
+        "IV Percentage": 5.91,
+        "Possible Combinations": 4368,
+        "Probability": 4.068e-06
+    },
+    "12": {
+        "IV Percentage": 6.45,
+        "Possible Combinations": 6188,
+        "Probability": 5.763e-06
+    },
+    "13": {
+        "IV Percentage": 6.99,
+        "Possible Combinations": 8568,
+        "Probability": 7.9796e-06
+    },
+    "14": {
+        "IV Percentage": 7.53,
+        "Possible Combinations": 11628,
+        "Probability": 1.08294e-05
+    },
+    "15": {
+        "IV Percentage": 8.06,
+        "Possible Combinations": 15504,
+        "Probability": 1.44392e-05
+    },
+    "16": {
+        "IV Percentage": 8.6,
+        "Possible Combinations": 20349,
+        "Probability": 1.89515e-05
+    },
+    "17": {
+        "IV Percentage": 9.14,
+        "Possible Combinations": 26334,
+        "Probability": 2.45254e-05
+    },
+    "18": {
+        "IV Percentage": 9.68,
+        "Possible Combinations": 33649,
+        "Probability": 3.13381e-05
+    },
+    "19": {
+        "IV Percentage": 10.22,
+        "Possible Combinations": 42504,
+        "Probability": 3.95849e-05
+    },
+    "20": {
+        "IV Percentage": 10.75,
+        "Possible Combinations": 53130,
+        "Probability": 4.94812e-05
+    },
+    "21": {
+        "IV Percentage": 11.29,
+        "Possible Combinations": 65780,
+        "Probability": 6.12624e-05
+    },
+    "22": {
+        "IV Percentage": 11.83,
+        "Possible Combinations": 80730,
+        "Probability": 7.51857e-05
+    },
+    "23": {
+        "IV Percentage": 12.37,
+        "Possible Combinations": 98280,
+        "Probability": 9.15304e-05
+    },
+    "24": {
+        "IV Percentage": 12.9,
+        "Possible Combinations": 118755,
+        "Probability": 0.0001105992
+    },
+    "25": {
+        "IV Percentage": 13.44,
+        "Possible Combinations": 142506,
+        "Probability": 0.0001327191
+    },
+    "26": {
+        "IV Percentage": 13.98,
+        "Possible Combinations": 169911,
+        "Probability": 0.0001582419
+    },
+    "27": {
+        "IV Percentage": 14.52,
+        "Possible Combinations": 201376,
+        "Probability": 0.000187546
+    },
+    "28": {
+        "IV Percentage": 15.05,
+        "Possible Combinations": 237336,
+        "Probability": 0.0002210364
+    },
+    "29": {
+        "IV Percentage": 15.59,
+        "Possible Combinations": 278256,
+        "Probability": 0.0002591461
+    },
+    "30": {
+        "IV Percentage": 16.13,
+        "Possible Combinations": 324632,
+        "Probability": 0.0003023371
+    },
+    "31": {
+        "IV Percentage": 16.67,
+        "Possible Combinations": 376992,
+        "Probability": 0.0003511012
+    },
+    "32": {
+        "IV Percentage": 17.2,
+        "Possible Combinations": 435891,
+        "Probability": 0.0004059551
+    },
+    "33": {
+        "IV Percentage": 17.74,
+        "Possible Combinations": 501906,
+        "Probability": 0.0004674364
+    },
+    "34": {
+        "IV Percentage": 18.28,
+        "Possible Combinations": 575631,
+        "Probability": 0.0005360981
+    },
+    "35": {
+        "IV Percentage": 18.82,
+        "Possible Combinations": 657672,
+        "Probability": 0.0006125048
+    },
+    "36": {
+        "IV Percentage": 19.35,
+        "Possible Combinations": 748642,
+        "Probability": 0.0006972272
+    },
+    "37": {
+        "IV Percentage": 19.89,
+        "Possible Combinations": 849156,
+        "Probability": 0.0007908382
+    },
+    "38": {
+        "IV Percentage": 20.43,
+        "Possible Combinations": 959826,
+        "Probability": 0.0008939076
+    },
+    "39": {
+        "IV Percentage": 20.97,
+        "Possible Combinations": 1081256,
+        "Probability": 0.0010069981
+    },
+    "40": {
+        "IV Percentage": 21.51,
+        "Possible Combinations": 1214037,
+        "Probability": 0.0011306601
+    },
+    "41": {
+        "IV Percentage": 22.04,
+        "Possible Combinations": 1358742,
+        "Probability": 0.0012654271
+    },
+    "42": {
+        "IV Percentage": 22.58,
+        "Possible Combinations": 1515921,
+        "Probability": 0.0014118114
+    },
+    "43": {
+        "IV Percentage": 23.12,
+        "Possible Combinations": 1686096,
+        "Probability": 0.0015702993
+    },
+    "44": {
+        "IV Percentage": 23.66,
+        "Possible Combinations": 1869756,
+        "Probability": 0.001741346
+    },
+    "45": {
+        "IV Percentage": 24.19,
+        "Possible Combinations": 2067352,
+        "Probability": 0.0019253716
+    },
+    "46": {
+        "IV Percentage": 24.73,
+        "Possible Combinations": 2279292,
+        "Probability": 0.0021227561
+    },
+    "47": {
+        "IV Percentage": 25.27,
+        "Possible Combinations": 2505936,
+        "Probability": 0.0023338348
+    },
+    "48": {
+        "IV Percentage": 25.81,
+        "Possible Combinations": 2747591,
+        "Probability": 0.0025588935
+    },
+    "49": {
+        "IV Percentage": 26.34,
+        "Possible Combinations": 3004506,
+        "Probability": 0.0027981643
+    },
+    "50": {
+        "IV Percentage": 26.88,
+        "Possible Combinations": 3276867,
+        "Probability": 0.0030518202
+    },
+    "51": {
+        "IV Percentage": 27.42,
+        "Possible Combinations": 3564792,
+        "Probability": 0.0033199713
+    },
+    "52": {
+        "IV Percentage": 27.96,
+        "Possible Combinations": 3868326,
+        "Probability": 0.0036026593
+    },
+    "53": {
+        "IV Percentage": 28.49,
+        "Possible Combinations": 4187436,
+        "Probability": 0.0038998537
+    },
+    "54": {
+        "IV Percentage": 29.03,
+        "Possible Combinations": 4522006,
+        "Probability": 0.0042114463
+    },
+    "55": {
+        "IV Percentage": 29.57,
+        "Possible Combinations": 4871832,
+        "Probability": 0.0045372471
+    },
+    "56": {
+        "IV Percentage": 30.11,
+        "Possible Combinations": 5236617,
+        "Probability": 0.0048769796
+    },
+    "57": {
+        "IV Percentage": 30.65,
+        "Possible Combinations": 5615966,
+        "Probability": 0.0052302759
+    },
+    "58": {
+        "IV Percentage": 31.18,
+        "Possible Combinations": 6009381,
+        "Probability": 0.0055966722
+    },
+    "59": {
+        "IV Percentage": 31.72,
+        "Possible Combinations": 6416256,
+        "Probability": 0.0059756041
+    },
+    "60": {
+        "IV Percentage": 32.26,
+        "Possible Combinations": 6835872,
+        "Probability": 0.0063664019
+    },
+    "61": {
+        "IV Percentage": 32.8,
+        "Possible Combinations": 7267392,
+        "Probability": 0.0067682862
+    },
+    "62": {
+        "IV Percentage": 33.33,
+        "Possible Combinations": 7709856,
+        "Probability": 0.0071803629
+    },
+    "63": {
+        "IV Percentage": 33.87,
+        "Possible Combinations": 8162176,
+        "Probability": 0.0076016188
+    },
+    "64": {
+        "IV Percentage": 34.41,
+        "Possible Combinations": 8623146,
+        "Probability": 0.0080309305
+    },
+    "65": {
+        "IV Percentage": 34.95,
+        "Possible Combinations": 9091452,
+        "Probability": 0.0084670745
+    },
+    "66": {
+        "IV Percentage": 35.48,
+        "Possible Combinations": 9565682,
+        "Probability": 0.0089087356
+    },
+    "67": {
+        "IV Percentage": 36.02,
+        "Possible Combinations": 10044336,
+        "Probability": 0.0093545169
+    },
+    "68": {
+        "IV Percentage": 36.56,
+        "Possible Combinations": 10525836,
+        "Probability": 0.0098029487
+    },
+    "69": {
+        "IV Percentage": 37.1,
+        "Possible Combinations": 11008536,
+        "Probability": 0.0102524981
+    },
+    "70": {
+        "IV Percentage": 37.63,
+        "Possible Combinations": 11490732,
+        "Probability": 0.0107015781
+    },
+    "71": {
+        "IV Percentage": 38.17,
+        "Possible Combinations": 11970672,
+        "Probability": 0.0111485571
+    },
+    "72": {
+        "IV Percentage": 38.71,
+        "Possible Combinations": 12446566,
+        "Probability": 0.0115917679
+    },
+    "73": {
+        "IV Percentage": 39.25,
+        "Possible Combinations": 12916596,
+        "Probability": 0.0120295174
+    },
+    "74": {
+        "IV Percentage": 39.78,
+        "Possible Combinations": 13378926,
+        "Probability": 0.0124600958
+    },
+    "75": {
+        "IV Percentage": 40.32,
+        "Possible Combinations": 13831712,
+        "Probability": 0.0128817856
+    },
+    "76": {
+        "IV Percentage": 40.86,
+        "Possible Combinations": 14273112,
+        "Probability": 0.0132928714
+    },
+    "77": {
+        "IV Percentage": 41.4,
+        "Possible Combinations": 14701296,
+        "Probability": 0.0136916488
+    },
+    "78": {
+        "IV Percentage": 41.94,
+        "Possible Combinations": 15114456,
+        "Probability": 0.0140764341
+    },
+    "79": {
+        "IV Percentage": 42.47,
+        "Possible Combinations": 15510816,
+        "Probability": 0.0144455731
+    },
+    "80": {
+        "IV Percentage": 43.01,
+        "Possible Combinations": 15888642,
+        "Probability": 0.014797451
+    },
+    "81": {
+        "IV Percentage": 43.55,
+        "Possible Combinations": 16246252,
+        "Probability": 0.0151305012
+    },
+    "82": {
+        "IV Percentage": 44.09,
+        "Possible Combinations": 16582026,
+        "Probability": 0.0154432151
+    },
+    "83": {
+        "IV Percentage": 44.62,
+        "Possible Combinations": 16894416,
+        "Probability": 0.015734151
+    },
+    "84": {
+        "IV Percentage": 45.16,
+        "Possible Combinations": 17181956,
+        "Probability": 0.0160019435
+    },
+    "85": {
+        "IV Percentage": 45.7,
+        "Possible Combinations": 17443272,
+        "Probability": 0.016245313
+    },
+    "86": {
+        "IV Percentage": 46.24,
+        "Possible Combinations": 17677092,
+        "Probability": 0.0164630748
+    },
+    "87": {
+        "IV Percentage": 46.77,
+        "Possible Combinations": 17882256,
+        "Probability": 0.0166541487
+    },
+    "88": {
+        "IV Percentage": 47.31,
+        "Possible Combinations": 18057726,
+        "Probability": 0.0168175679
+    },
+    "89": {
+        "IV Percentage": 47.85,
+        "Possible Combinations": 18202596,
+        "Probability": 0.0169524886
+    },
+    "90": {
+        "IV Percentage": 48.39,
+        "Possible Combinations": 18316102,
+        "Probability": 0.0170581993
+    },
+    "91": {
+        "IV Percentage": 48.92,
+        "Possible Combinations": 18397632,
+        "Probability": 0.01713413
+    },
+    "92": {
+        "IV Percentage": 49.46,
+        "Possible Combinations": 18446736,
+        "Probability": 0.0171798617
+    },
+    "93": {
+        "IV Percentage": 50.0,
+        "Possible Combinations": 18463136,
+        "Probability": 0.0171951354
+    },
+    "94": {
+        "IV Percentage": 50.54,
+        "Possible Combinations": 18446736,
+        "Probability": 0.0171798617
+    },
+    "95": {
+        "IV Percentage": 51.08,
+        "Possible Combinations": 18397632,
+        "Probability": 0.01713413
+    },
+    "96": {
+        "IV Percentage": 51.61,
+        "Possible Combinations": 18316102,
+        "Probability": 0.0170581993
+    },
+    "97": {
+        "IV Percentage": 52.15,
+        "Possible Combinations": 18202596,
+        "Probability": 0.0169524886
+    },
+    "98": {
+        "IV Percentage": 52.69,
+        "Possible Combinations": 18057726,
+        "Probability": 0.0168175679
+    },
+    "99": {
+        "IV Percentage": 53.23,
+        "Possible Combinations": 17882256,
+        "Probability": 0.0166541487
+    },
+    "100": {
+        "IV Percentage": 53.76,
+        "Possible Combinations": 17677092,
+        "Probability": 0.0164630748
+    },
+    "101": {
+        "IV Percentage": 54.3,
+        "Possible Combinations": 17443272,
+        "Probability": 0.016245313
+    },
+    "102": {
+        "IV Percentage": 54.84,
+        "Possible Combinations": 17181956,
+        "Probability": 0.0160019435
+    },
+    "103": {
+        "IV Percentage": 55.38,
+        "Possible Combinations": 16894416,
+        "Probability": 0.015734151
+    },
+    "104": {
+        "IV Percentage": 55.91,
+        "Possible Combinations": 16582026,
+        "Probability": 0.0154432151
+    },
+    "105": {
+        "IV Percentage": 56.45,
+        "Possible Combinations": 16246252,
+        "Probability": 0.0151305012
+    },
+    "106": {
+        "IV Percentage": 56.99,
+        "Possible Combinations": 15888642,
+        "Probability": 0.014797451
+    },
+    "107": {
+        "IV Percentage": 57.53,
+        "Possible Combinations": 15510816,
+        "Probability": 0.0144455731
+    },
+    "108": {
+        "IV Percentage": 58.06,
+        "Possible Combinations": 15114456,
+        "Probability": 0.0140764341
+    },
+    "109": {
+        "IV Percentage": 58.6,
+        "Possible Combinations": 14701296,
+        "Probability": 0.0136916488
+    },
+    "110": {
+        "IV Percentage": 59.14,
+        "Possible Combinations": 14273112,
+        "Probability": 0.0132928714
+    },
+    "111": {
+        "IV Percentage": 59.68,
+        "Possible Combinations": 13831712,
+        "Probability": 0.0128817856
+    },
+    "112": {
+        "IV Percentage": 60.22,
+        "Possible Combinations": 13378926,
+        "Probability": 0.0124600958
+    },
+    "113": {
+        "IV Percentage": 60.75,
+        "Possible Combinations": 12916596,
+        "Probability": 0.0120295174
+    },
+    "114": {
+        "IV Percentage": 61.29,
+        "Possible Combinations": 12446566,
+        "Probability": 0.0115917679
+    },
+    "115": {
+        "IV Percentage": 61.83,
+        "Possible Combinations": 11970672,
+        "Probability": 0.0111485571
+    },
+    "116": {
+        "IV Percentage": 62.37,
+        "Possible Combinations": 11490732,
+        "Probability": 0.0107015781
+    },
+    "117": {
+        "IV Percentage": 62.9,
+        "Possible Combinations": 11008536,
+        "Probability": 0.0102524981
+    },
+    "118": {
+        "IV Percentage": 63.44,
+        "Possible Combinations": 10525836,
+        "Probability": 0.0098029487
+    },
+    "119": {
+        "IV Percentage": 63.98,
+        "Possible Combinations": 10044336,
+        "Probability": 0.0093545169
+    },
+    "120": {
+        "IV Percentage": 64.52,
+        "Possible Combinations": 9565682,
+        "Probability": 0.0089087356
+    },
+    "121": {
+        "IV Percentage": 65.05,
+        "Possible Combinations": 9091452,
+        "Probability": 0.0084670745
+    },
+    "122": {
+        "IV Percentage": 65.59,
+        "Possible Combinations": 8623146,
+        "Probability": 0.0080309305
+    },
+    "123": {
+        "IV Percentage": 66.13,
+        "Possible Combinations": 8162176,
+        "Probability": 0.0076016188
+    },
+    "124": {
+        "IV Percentage": 66.67,
+        "Possible Combinations": 7709856,
+        "Probability": 0.0071803629
+    },
+    "125": {
+        "IV Percentage": 67.2,
+        "Possible Combinations": 7267392,
+        "Probability": 0.0067682862
+    },
+    "126": {
+        "IV Percentage": 67.74,
+        "Possible Combinations": 6835872,
+        "Probability": 0.0063664019
+    },
+    "127": {
+        "IV Percentage": 68.28,
+        "Possible Combinations": 6416256,
+        "Probability": 0.0059756041
+    },
+    "128": {
+        "IV Percentage": 68.82,
+        "Possible Combinations": 6009381,
+        "Probability": 0.0055966722
+    },
+    "129": {
+        "IV Percentage": 69.35,
+        "Possible Combinations": 5615966,
+        "Probability": 0.0052302759
+    },
+    "130": {
+        "IV Percentage": 69.89,
+        "Possible Combinations": 5236617,
+        "Probability": 0.0048769796
+    },
+    "131": {
+        "IV Percentage": 70.43,
+        "Possible Combinations": 4871832,
+        "Probability": 0.0045372471
+    },
+    "132": {
+        "IV Percentage": 70.97,
+        "Possible Combinations": 4522006,
+        "Probability": 0.0042114463
+    },
+    "133": {
+        "IV Percentage": 71.51,
+        "Possible Combinations": 4187436,
+        "Probability": 0.0038998537
+    },
+    "134": {
+        "IV Percentage": 72.04,
+        "Possible Combinations": 3868326,
+        "Probability": 0.0036026593
+    },
+    "135": {
+        "IV Percentage": 72.58,
+        "Possible Combinations": 3564792,
+        "Probability": 0.0033199713
+    },
+    "136": {
+        "IV Percentage": 73.12,
+        "Possible Combinations": 3276867,
+        "Probability": 0.0030518202
+    },
+    "137": {
+        "IV Percentage": 73.66,
+        "Possible Combinations": 3004506,
+        "Probability": 0.0027981643
+    },
+    "138": {
+        "IV Percentage": 74.19,
+        "Possible Combinations": 2747591,
+        "Probability": 0.0025588935
+    },
+    "139": {
+        "IV Percentage": 74.73,
+        "Possible Combinations": 2505936,
+        "Probability": 0.0023338348
+    },
+    "140": {
+        "IV Percentage": 75.27,
+        "Possible Combinations": 2279292,
+        "Probability": 0.0021227561
+    },
+    "141": {
+        "IV Percentage": 75.81,
+        "Possible Combinations": 2067352,
+        "Probability": 0.0019253716
+    },
+    "142": {
+        "IV Percentage": 76.34,
+        "Possible Combinations": 1869756,
+        "Probability": 0.001741346
+    },
+    "143": {
+        "IV Percentage": 76.88,
+        "Possible Combinations": 1686096,
+        "Probability": 0.0015702993
+    },
+    "144": {
+        "IV Percentage": 77.42,
+        "Possible Combinations": 1515921,
+        "Probability": 0.0014118114
+    },
+    "145": {
+        "IV Percentage": 77.96,
+        "Possible Combinations": 1358742,
+        "Probability": 0.0012654271
+    },
+    "146": {
+        "IV Percentage": 78.49,
+        "Possible Combinations": 1214037,
+        "Probability": 0.0011306601
+    },
+    "147": {
+        "IV Percentage": 79.03,
+        "Possible Combinations": 1081256,
+        "Probability": 0.0010069981
+    },
+    "148": {
+        "IV Percentage": 79.57,
+        "Possible Combinations": 959826,
+        "Probability": 0.0008939076
+    },
+    "149": {
+        "IV Percentage": 80.11,
+        "Possible Combinations": 849156,
+        "Probability": 0.0007908382
+    },
+    "150": {
+        "IV Percentage": 80.65,
+        "Possible Combinations": 748642,
+        "Probability": 0.0006972272
+    },
+    "151": {
+        "IV Percentage": 81.18,
+        "Possible Combinations": 657672,
+        "Probability": 0.0006125048
+    },
+    "152": {
+        "IV Percentage": 81.72,
+        "Possible Combinations": 575631,
+        "Probability": 0.0005360981
+    },
+    "153": {
+        "IV Percentage": 82.26,
+        "Possible Combinations": 501906,
+        "Probability": 0.0004674364
+    },
+    "154": {
+        "IV Percentage": 82.8,
+        "Possible Combinations": 435891,
+        "Probability": 0.0004059551
+    },
+    "155": {
+        "IV Percentage": 83.33,
+        "Possible Combinations": 376992,
+        "Probability": 0.0003511012
+    },
+    "156": {
+        "IV Percentage": 83.87,
+        "Possible Combinations": 324632,
+        "Probability": 0.0003023371
+    },
+    "157": {
+        "IV Percentage": 84.41,
+        "Possible Combinations": 278256,
+        "Probability": 0.0002591461
+    },
+    "158": {
+        "IV Percentage": 84.95,
+        "Possible Combinations": 237336,
+        "Probability": 0.0002210364
+    },
+    "159": {
+        "IV Percentage": 85.48,
+        "Possible Combinations": 201376,
+        "Probability": 0.000187546
+    },
+    "160": {
+        "IV Percentage": 86.02,
+        "Possible Combinations": 169911,
+        "Probability": 0.0001582419
+    },
+    "161": {
+        "IV Percentage": 86.56,
+        "Possible Combinations": 142506,
+        "Probability": 0.0001327191
+    },
+    "162": {
+        "IV Percentage": 87.1,
+        "Possible Combinations": 118755,
+        "Probability": 0.0001105992
+    },
+    "163": {
+        "IV Percentage": 87.63,
+        "Possible Combinations": 98280,
+        "Probability": 9.15304e-05
+    },
+    "164": {
+        "IV Percentage": 88.17,
+        "Possible Combinations": 80730,
+        "Probability": 7.51857e-05
+    },
+    "165": {
+        "IV Percentage": 88.71,
+        "Possible Combinations": 65780,
+        "Probability": 6.12624e-05
+    },
+    "166": {
+        "IV Percentage": 89.25,
+        "Possible Combinations": 53130,
+        "Probability": 4.94812e-05
+    },
+    "167": {
+        "IV Percentage": 89.78,
+        "Possible Combinations": 42504,
+        "Probability": 3.95849e-05
+    },
+    "168": {
+        "IV Percentage": 90.32,
+        "Possible Combinations": 33649,
+        "Probability": 3.13381e-05
+    },
+    "169": {
+        "IV Percentage": 90.86,
+        "Possible Combinations": 26334,
+        "Probability": 2.45254e-05
+    },
+    "170": {
+        "IV Percentage": 91.4,
+        "Possible Combinations": 20349,
+        "Probability": 1.89515e-05
+    },
+    "171": {
+        "IV Percentage": 91.94,
+        "Possible Combinations": 15504,
+        "Probability": 1.44392e-05
+    },
+    "172": {
+        "IV Percentage": 92.47,
+        "Possible Combinations": 11628,
+        "Probability": 1.08294e-05
+    },
+    "173": {
+        "IV Percentage": 93.01,
+        "Possible Combinations": 8568,
+        "Probability": 7.9796e-06
+    },
+    "174": {
+        "IV Percentage": 93.55,
+        "Possible Combinations": 6188,
+        "Probability": 5.763e-06
+    },
+    "175": {
+        "IV Percentage": 94.09,
+        "Possible Combinations": 4368,
+        "Probability": 4.068e-06
+    },
+    "176": {
+        "IV Percentage": 94.62,
+        "Possible Combinations": 3003,
+        "Probability": 2.7968e-06
+    },
+    "177": {
+        "IV Percentage": 95.16,
+        "Possible Combinations": 2002,
+        "Probability": 1.8645e-06
+    },
+    "178": {
+        "IV Percentage": 95.7,
+        "Possible Combinations": 1287,
+        "Probability": 1.1986e-06
+    },
+    "179": {
+        "IV Percentage": 96.24,
+        "Possible Combinations": 792,
+        "Probability": 7.376e-07
+    },
+    "180": {
+        "IV Percentage": 96.77,
+        "Possible Combinations": 462,
+        "Probability": 4.303e-07
+    },
+    "181": {
+        "IV Percentage": 97.31,
+        "Possible Combinations": 252,
+        "Probability": 2.347e-07
+    },
+    "182": {
+        "IV Percentage": 97.85,
+        "Possible Combinations": 126,
+        "Probability": 1.173e-07
+    },
+    "183": {
+        "IV Percentage": 98.39,
+        "Possible Combinations": 56,
+        "Probability": 5.22e-08
+    },
+    "184": {
+        "IV Percentage": 98.92,
+        "Possible Combinations": 21,
+        "Probability": 1.96e-08
+    },
+    "185": {
+        "IV Percentage": 99.46,
+        "Possible Combinations": 6,
+        "Probability": 5.6e-09
+    },
+    "186": {
+        "IV Percentage": 100.0,
+        "Possible Combinations": 1,
+        "Probability": 9e-10
+    }
+}
