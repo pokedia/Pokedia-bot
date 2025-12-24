@@ -23,7 +23,7 @@ jobs:
 
             if [ ! -d .git ]; then
               git clone https://github.com/pokedia/Pokedia-bot.git .
-              echo "Fresh clone into /opt/Pokedia-bot"
+              echo "Fresh clone"
             else
               git fetch origin
               git reset --hard origin/main
