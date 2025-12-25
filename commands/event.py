@@ -155,8 +155,18 @@ class ChristmasEvent(commands.Cog):
             return
 
         # PLAY subcommand
-        if subcommand.lower() in ["play", "sts", "dts"]:
-            game_name = args.lower() if args else "spot the santa"
+        if subcommand.lower() == "play":
+            if not args:
+                await ctx.send(
+                    "🎮 **Please select a game!**\n"
+                    "Choose one of:\n"
+                    "🎅 Spot The Santa/sts\n"
+                    "❄️ Dodge the Snowball/dts\n"
+                    "🌟 Find the Golden Star/fgs"
+                )
+                return
+
+            game_name = args.lower()
 
             if game_name in ["spot the santa", "sts"]:
                 # 🎅 Spot The Santa
