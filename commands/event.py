@@ -22,6 +22,7 @@ GITHUB_BASE = "https://raw.githubusercontent.com/pokedia/images/main/spot_santa"
 
 COVER_URL = f"{GITHUB_BASE}/cover.png"
 DEFAULT_URL = f"{GITHUB_BASE}/default.png"
+DODGE_URL = f"{GITHUB_BASE}/dodge.png"
 
 class GamesDropdown(discord.ui.Select):
     def __init__(self, author_id: int):
@@ -29,7 +30,7 @@ class GamesDropdown(discord.ui.Select):
         options = [
             discord.SelectOption(label="Spot The Santa", description="Test your memory skills", emoji="🎅"),
             discord.SelectOption(label="Fill Up The Spaces", description="Coming Soon", emoji="⚫"),
-            discord.SelectOption(label="Dodge the Snowball", description="Coming Soon", emoji="❄️"),
+            discord.SelectOption(label="Dodge the Snowball", description="Test your Luck", emoji="❄️"),
             discord.SelectOption(label="Find the Golden Star", description="Coming Soon", emoji="🌟"),
         ]
 
@@ -68,6 +69,38 @@ class GamesDropdown(discord.ui.Select):
                 color=discord.Color.blue()
             )
             embed.set_image(url=DEFAULT_URL)
+
+        elif choice == "Dodge the Snowball":
+            embed = discord.Embed(
+                title="❄️ Dodge The Snowball",
+                description=(
+                    "**Dodge The Snowball** is a Luck-based game.\n\n"
+                    "You will be shown 3 Tiles, Out of which 1 Tile is **DANGER**.\n\n"
+                    "Choose your Tile Carefully and **BE SAFE FROM THE SNOWBALL!**\n\n"
+                    "**Prize System:**\n"
+                    "`Safe`: 2x Santa Box; 1000 Pokecash\n"
+                    "`Hit`: 0x Santa Box; 500 Pokecash\n\n"
+                    "Use the command `@Pokédia#2537 event dodge {tile_number}`"
+                ),
+                color=discord.Color.blue()
+            )
+            embed.set_image(url=DODGE_URL)
+
+        elif choice == "Find the Golden Star":
+            embed = discord.Embed(
+                title="🌟 Find the Golden Star",
+                description=(
+                    "**Help Santa find his `LOST STAR`**.\n\n"
+                    "You will receive Decor Box while catching in the wild.\n\n"
+                    "Open those boxes and have a chance to find the Golden Star!**\n\n"
+                    "**Prize System:**\n"
+                    "If you box a Golden Star, You wi automatically receive your **REWARD**\n"
+                    "`3x Santa Box; 1500 Pokecash`\n\n"
+                    "Use the command `@Pokédia#2537 decoropen/do` to open the Decor Box."
+                ),
+                color=discord.Color.blue()
+            )
+
         else:
             embed = discord.Embed(
                 title=choice,
@@ -138,7 +171,7 @@ class ChristmasEvent(commands.Cog):
                 await find_the_star(ctx, find_star)
 
             else:
-                await ctx.send("🚧 **Coming Soon!** This game is not yet available 🎄")
+                await ctx.send("This game is not yet available 🎄")
 
             return
 

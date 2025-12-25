@@ -85,11 +85,11 @@ class TradeSystem:
             return
 
         # 🔒 Check suspension status for both users
-        row = await self.bot.db.fetchrow(
+        row = await self.db.fetchrow(
             """
             SELECT
-                MAX(CASE WHEN userid = $1 THEN suspended END) AS sender_suspended,
-                MAX(CASE WHEN userid = $2 THEN suspended END) AS receiver_suspended
+                BOOL_OR(suspended) FILTER (WHERE userid = $1) AS sender_suspended,
+                BOOL_OR(suspended) FILTER (WHERE userid = $2) AS receiver_suspended
             FROM users
             WHERE userid IN ($1, $2)
             """,
