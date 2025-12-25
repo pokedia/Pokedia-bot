@@ -145,7 +145,7 @@ class CatchCommand(commands.Cog):
             is_shiny, max_xp)
 
             # 🎄 Snow Coin drop (1 in 8 chance)
-            snow_coin_dropped = random.randint(1, 8) == 1
+            snow_coin_dropped = random.randint(1, 5) == 1
 
 
             if snow_coin_dropped:
