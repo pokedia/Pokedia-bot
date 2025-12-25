@@ -24,7 +24,8 @@ COVER_URL = f"{GITHUB_BASE}/cover.png"
 DEFAULT_URL = f"{GITHUB_BASE}/default.png"
 
 class GamesDropdown(discord.ui.Select):
-    def __init__(self):
+    def __init__(self, author_id: int):
+        self.author_id = author_id
         options = [
             discord.SelectOption(label="Spot The Santa", description="Test your memory skills", emoji="🎅"),
             discord.SelectOption(label="Fill Up The Spaces", description="Coming Soon", emoji="⚫"),
@@ -40,6 +41,14 @@ class GamesDropdown(discord.ui.Select):
         )
 
     async def callback(self, interaction: discord.Interaction):
+
+        # 🔒 Only command author can use this menu
+        if interaction.user.id != self.author_id:
+            await interaction.response.send_message(
+                "❌ Only the user who ran this command can use this menu.",
+                ephemeral=True
+            )
+            return
         await interaction.response.defer()
         choice = self.values[0]
 
@@ -51,9 +60,9 @@ class GamesDropdown(discord.ui.Select):
                     "You will be shown a grid with Santa hidden in 5 positions.\n"
                     "Memorize carefully — after **3 seconds**, the grid will be covered!\n\n"
                     "**Prize System:**\n"
-                    "`4 or 5 Positions Right:` 5x Santa Box; 2000 Pokecash and 200 Xmas Pass XP\n"
-                    "`3 Positions Right:` 3x Santa Box; 1000 Pokecash and 100 Xmas Pass XP\n"
-                    "`1 or 2 Positions Right:` 1x Santa Box; 500 Pokecash and 100 Xmas Pass XP\n\n"
+                    "`4 or 5 Positions Right:` 5x Santa Box; 2000 Pokecash\n"
+                    "`3 Positions Right:` 3x Santa Box; 1000 Pokecash\n"
+                    "`1 or 2 Positions Right:` 1x Santa Box; 500 Pokecash\n\n"
                     "Use the command `@Pokédia#2537 event solve {your guess}` for eg: b2,a1,a3 etc."
                 ),
                 color=discord.Color.blue()
@@ -74,9 +83,10 @@ class GamesDropdown(discord.ui.Select):
 
 
 class GamesView(discord.ui.View):
-    def __init__(self):
+    def __init__(self, author_id: int):
         super().__init__(timeout=None)
-        self.add_item(GamesDropdown())
+        self.author_id = author_id
+        self.add_item(GamesDropdown(author_id))
 
 
 class ChristmasEvent(commands.Cog):
@@ -108,7 +118,7 @@ class ChristmasEvent(commands.Cog):
             )
             embed.set_image(url=COVER_URL)
             embed.set_footer(text="Entry Cost: Each Sport Costs 1× Snow Coin")
-            await ctx.send(embed=embed, view=GamesView())
+            await ctx.send(embed=embed, view=GamesView(ctx.author.id))
             return
 
         # PLAY subcommand

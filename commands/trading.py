@@ -84,12 +84,47 @@ class TradeSystem:
             await ctx.send("You cannot trade with yourself!")
             return
 
+        # 🔒 Check suspension status for both users
+        row = await self.bot.db.fetchrow(
+            """
+            SELECT
+                MAX(CASE WHEN userid = $1 THEN suspended END) AS sender_suspended,
+                MAX(CASE WHEN userid = $2 THEN suspended END) AS receiver_suspended
+            FROM users
+            WHERE userid IN ($1, $2)
+            """,
+            user1.id,
+            user2.id
+        )
+
+        sender_suspended = row["sender_suspended"]
+        receiver_suspended = row["receiver_suspended"]
+
+        if sender_suspended and receiver_suspended:
+            await ctx.send("Both the User's are Suspended from the bot.")
+            return
+        elif sender_suspended:
+            await ctx.send(
+                "You are suspended from this bot. You Cant send a Trade Request to another User."
+            )
+            return
+        elif receiver_suspended:
+            await ctx.send(
+                "The Requested User is Suspended from the bot."
+            )
+            return
+
+        # 🔁 Existing checks
         if user1.id in self.active_requests or user2.id in self.active_requests:
-            await ctx.send("One of you already has a pending trade request! Please wait for it to be accepted or declined.")
+            await ctx.send(
+                "One of you already has a pending trade request! Please wait for it to be accepted or declined."
+            )
             return
 
         if self.active_trade(user1) or self.active_trade(user2):
-            await ctx.send("One of you is already in an active trade! Finish your current trade first.")
+            await ctx.send(
+                "One of you is already in an active trade! Finish your current trade first."
+            )
             return
 
         if user2.bot or user1.bot:
@@ -110,7 +145,9 @@ class TradeSystem:
             return user == user2 and str(reaction.emoji) in ["✅", "❌"]
 
         try:
-            reaction, _ = await ctx.bot.wait_for("reaction_add", check=check, timeout=60)
+            reaction, _ = await ctx.bot.wait_for(
+                "reaction_add", check=check, timeout=60
+            )
         except asyncio.TimeoutError:
             await message.edit(content="Trade request timed out.")
             self.active_requests.discard(user1.id)
@@ -122,19 +159,29 @@ class TradeSystem:
 
         if str(reaction.emoji) == "✅":
             self.active_trades[trade_key] = {
-                user1.id: [], user2.id: [],
+                user1.id: [],
+                user2.id: [],
                 "confirmed": {user1.id: False, user2.id: False},
                 "page": 1,
-                "accepted": True  # ✅ Trade is now marked as accepted!
+                "accepted": True
             }
 
-            await message.edit(content=f"Trade accepted! {user1.mention} and {user2.mention}, add items using `!ta <item>`.")
+            await message.edit(
+                content=f"Trade accepted! {user1.mention} and {user2.mention}, add items using `!ta <item>`."
+            )
 
-            trade_embed = await self.send_trade_embed(ctx.channel, user1, user2, self.active_trades[trade_key],
-                                                      self.active_trades[trade_key]["confirmed"])
+            trade_embed = await self.send_trade_embed(
+                ctx.channel,
+                user1,
+                user2,
+                self.active_trades[trade_key],
+                self.active_trades[trade_key]["confirmed"]
+            )
             self.active_trades[trade_key]["embed_msg"] = trade_embed
         else:
-            await message.edit(content=f"Trade declined by {user2.mention}.")
+            await message.edit(
+                content=f"Trade declined by {user2.mention}."
+            )
 
     async def add_trade_item(self, ctx, user, item):
         trade_key = next((k for k in self.active_trades if user.id in k), None)

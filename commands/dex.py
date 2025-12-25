@@ -15,10 +15,6 @@ with open(os.path.join(ROOT_DIR, "../spawn_rarity.json"), encoding="utf-8") as f
 with open(os.path.join(ROOT_DIR, "../functions/alias.json"), encoding="utf-8") as f:
     alias_data = json.load(f)
 
-fusionable_names = {
-    "mewtwo", "deoxys", "eevee", "marshadow", "mew",
-    "chandelure", "gallade", "empoleon", "mawile", "audino"
-}
 
 def normalize_name(name: str) -> str:
     return name.lower().replace(" ", "-")
@@ -32,10 +28,6 @@ def is_catchable(form_name: str) -> str:
             return "Yes"
     return "No"
 
-def is_fusionable(form_name: str) -> str:
-    base = form_name.split("-")[0].lower()
-    return "Yes" if base in fusionable_names else "No"
-
 def get_aliases(form_name: str):
     return alias_data.get(form_name.replace(" ", "-").title(), [])
 
@@ -44,6 +36,7 @@ def get_entries_by_dex_no(dex_no):
 
 def get_entry_by_form_name(form_name):
     return next((p for p in pokedex if p["form_name"] == form_name), None)
+
 
 def build_embed(entry, shiny=False):
     form_name = entry["form_name"]
@@ -74,7 +67,6 @@ def build_embed(entry, shiny=False):
     ) or "Unknown"
 
     embed.add_field(name="Base Stats", value=stats_str, inline=True)
-    embed.add_field(name="Fusionable", value=is_fusionable(form_name), inline=True)
 
     aliases = get_aliases(form_name)
     embed.add_field(
@@ -84,7 +76,7 @@ def build_embed(entry, shiny=False):
     )
 
     if shiny:
-        image_url = f"https://github.com/pokedia/images/blob/main/pokemon_shiny/{form_name}.png?raw=true$v5"
+        image_url = f"https://github.com/pokedia/images/blob/main/pokemon_shiny/{form_name}.png?raw=true&v=5"
     else:
         image_url = f"https://github.com/pokedia/images/blob/main/pokemon_images/{form_name}.png?raw=true&v=4"
 
@@ -102,7 +94,6 @@ class DexView(discord.ui.View):
         entry = get_entry_by_form_name(current_form_name)
         self.current_dex_no = entry["dex_no"] if entry else None
 
-        # ✅ FIX: forms based ONLY on dex_no
         self.forms = get_entries_by_dex_no(self.current_dex_no) if self.current_dex_no else []
 
         self.previous_button = discord.ui.Button(label="⏮️", style=discord.ButtonStyle.primary)
@@ -178,8 +169,15 @@ class Dex(commands.Cog):
     @commands.command(name="dex", aliases=["d"])
     @is_not_suspended()
     async def dex_command(self, ctx, *, pokemon_name: str):
-        query = normalize_name(pokemon_name)
+        parts = pokemon_name.lower().split()
+        is_shiny = False
 
+        # ✨ Detect "shiny" keyword
+        if parts[0] == "shiny":
+            is_shiny = True
+            pokemon_name = " ".join(parts[1:])
+
+        query = normalize_name(pokemon_name)
         entry = get_entry_by_form_name(query)
 
         if not entry:
@@ -192,8 +190,8 @@ class Dex(commands.Cog):
             await ctx.send("Pokémon not found.")
             return
 
-        embed = build_embed(entry)
-        view = DexView(entry["form_name"])
+        embed = build_embed(entry, shiny=is_shiny)
+        view = DexView(entry["form_name"], is_shiny=is_shiny)
         await ctx.send(embed=embed, view=view)
 
 

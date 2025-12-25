@@ -1616,7 +1616,7 @@
     },
     "description": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
     "region": "kanto",
-    "dex_no": 58
+    "dex_no": null
   },
   {
     "form_name": "arcanine",
@@ -1661,7 +1661,7 @@
     },
     "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
     "region": "kanto",
-    "dex_no": 59
+    "dex_no": null
   },
   {
     "form_name": "poliwag",
@@ -2835,7 +2835,7 @@
     },
     "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
     "region": "kanto",
-    "dex_no": 100
+    "dex_no": null
   },
   {
     "form_name": "electrode",
@@ -2880,7 +2880,7 @@
     },
     "description": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
     "region": "kanto",
-    "dex_no": 101
+    "dex_no": null
   },
   {
     "form_name": "exeggcute",
@@ -4337,7 +4337,7 @@
     },
     "description": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
     "region": "johto",
-    "dex_no": 157
+    "dex_no": null
   },
   {
     "form_name": "totodile",
@@ -5599,7 +5599,7 @@
     },
     "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
     "region": "johto",
-    "dex_no": 211
+    "dex_no": null
   },
   {
     "form_name": "scizor",
@@ -5714,7 +5714,7 @@
     },
     "description": "Its paws conceal sharp claws. If attacked, it sud­ denly extends the claws and startles its enemy.",
     "region": "johto",
-    "dex_no": 215
+    "dex_no": null
   },
   {
     "form_name": "teddiursa",
@@ -12619,7 +12619,7 @@
     },
     "description": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
     "region": "unova",
-    "dex_no": 503
+    "dex_no": null
   },
   {
     "form_name": "patrat",
@@ -13670,7 +13670,7 @@
     },
     "description": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
     "region": "unova",
-    "dex_no": 549
+    "dex_no": null
   },
   {
     "form_name": "basculin",
@@ -14324,7 +14324,7 @@
     },
     "description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
     "region": "unova",
-    "dex_no": 570
+    "dex_no": null
   },
   {
     "form_name": "zoroark",
@@ -14369,7 +14369,7 @@
     },
     "description": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
     "region": "unova",
-    "dex_no": 571
+    "dex_no": null
   },
   {
     "form_name": "minccino",
@@ -15693,7 +15693,7 @@
     },
     "description": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
     "region": "unova",
-    "dex_no": 628
+    "dex_no": null
   },
   {
     "form_name": "vullaby",
@@ -17687,7 +17687,7 @@
     },
     "description": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can’t see anything.",
     "region": "kalos",
-    "dex_no": 705
+    "dex_no": null
   },
   {
     "form_name": "goodra",
@@ -17732,7 +17732,7 @@
     },
     "description": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
     "region": "kalos",
-    "dex_no": 706
+    "dex_no": null
   },
   {
     "form_name": "klefki",
@@ -17914,7 +17914,7 @@
     },
     "description": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
     "region": "kalos",
-    "dex_no": 713
+    "dex_no": null
   },
   {
     "form_name": "noibat",
@@ -18258,7 +18258,7 @@
     },
     "description": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
     "region": "alola",
-    "dex_no": 724
+    "dex_no": null
   },
   {
     "form_name": "litten",

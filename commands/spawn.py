@@ -100,38 +100,6 @@ class SpawnCommand(commands.Cog):
 
     # ---------------- ASH GRENINJA ----------------
 
-    def update_ash_greninja_count(self):
-        count = 0
-        if os.path.exists(ASH_JSON):
-            try:
-                with open(ASH_JSON, "r") as f:
-                    count = json.load(f).get("count", 0)
-            except json.JSONDecodeError:
-                pass
-
-        count += 1
-        with open(ASH_JSON, "w") as f:
-            json.dump({"count": count}, f, indent=4)
-
-        if count < ASH_GRENINJA_LIMIT:
-            return
-
-        with open(ASH_JSON, "w") as f:
-            json.dump({"count": 0}, f, indent=4)
-
-        channel = self.bot.get_channel(ASH_GRENINJA_CHANNEL)
-        if not channel:
-            return
-
-        self.bot.loop.create_task(
-            self.send_spawn(
-                channel,
-                "ash-greninja",
-                discord.Color.blue(),
-                "A Mythical Pokémon has appeared!",
-            )
-        )
-
     # ---------------- NORMAL SPAWNS ----------------
 
     @commands.Cog.listener()
@@ -148,7 +116,6 @@ class SpawnCommand(commands.Cog):
             return
 
         self.message_counts[channel_id] = 0
-        self.update_ash_greninja_count()
 
         spawn_channels = self.redirect_spawns.get(guild_id, [channel_id])
         spawn_channel_id = random.choice(spawn_channels)

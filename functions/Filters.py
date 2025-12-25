@@ -32,7 +32,8 @@ RARE_POKEMON = {
 
 EVENT_POKEMON = {
     "event": [
-        "Boss Squirtle", "Cupcake Swirlix", "Balloons Spheal", "Gifts Vulpix", "Mr Jester", "Waiter Snorlax", "Chef Teddiursa", "Hotchocolate Lotad", "Pikachu Belle", "Pikachu Libre", "Pikachu PhD", "Pikachu Pop Star", "Pikachu Rock Star", "Pikachu Original Cap", "Pikachu Hoenn Cap", "Pikachu Sinnoh Cap", "Pikachu Unova Cap", "Pikachu Kalos Cap", "Pikachu Alola Cap", "Pikachu Partner Cap"
+        "Boss Squirtle", "Cupcake Swirlix", "Balloons Spheal", "Gifts Vulpix", "Mr Jester", "Waiter Snorlax", "Chef Teddiursa", "Hotchocolate Lotad", "Pikachu Belle", "Pikachu Libre", "Pikachu PhD", "Pikachu Pop Star", "Pikachu Rock Star", "Pikachu Original Cap", "Pikachu Hoenn Cap", "Pikachu Sinnoh Cap", "Pikachu Unova Cap", "Pikachu Kalos Cap", "Pikachu Alola Cap", "Pikachu Partner Cap",
+        "Reindeer Manectric", "Lights Amaura", "Arctic Snow Zorua", "Christmas Timburr", "Tapu Bael", "Aurora Celebi", "Snowball Pikachu"
     ]
 }
 

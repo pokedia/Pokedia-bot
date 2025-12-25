@@ -165,19 +165,21 @@ class CatchCommand(commands.Cog):
                 user_id
             )
 
+            star_dropped = False  # default value
+
             if star_active:
                 star_dropped = random.randint(1, 3) == 1
 
-                if star_dropped:
-                    await self.bot.db.execute(
-                        """
-                        INSERT INTO inventory (userid, item_name, value)
-                        VALUES ($1, 'Decor Box', 1)
-                        ON CONFLICT (userid, item_name)
-                        DO UPDATE SET value = inventory.value + 1
-                        """,
-                        user_id
-                    )
+            if star_dropped:
+                await self.bot.db.execute(
+                    """
+                    INSERT INTO inventory (userid, item_name, value)
+                    VALUES ($1, 'Decor Box', 1)
+                    ON CONFLICT (userid, item_name)
+                    DO UPDATE SET value = inventory.value + 1
+                    """,
+                    user_id
+                )
 
             # Shiny streak handling
             streak_footer = ""
