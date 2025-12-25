@@ -18,7 +18,7 @@ def get_random_iv_percentage():
     return random.choices(iv_percentages, weights=probabilities)[0]
 
 
-class GiftBox(commands.Cog):
+class SnowBox(commands.Cog):
     def __init__(self, bot, db):
         self.bot = bot
         self.db = db
@@ -211,4 +211,4 @@ class GiftBox(commands.Cog):
 
 
 async def setup(bot):
-    await bot.add_cog(GiftBox(bot, bot.db))
+    await bot.add_cog(SnowBox(bot, bot.db))
