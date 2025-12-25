@@ -28,7 +28,7 @@ bot = commands.Bot(
 
 # Initialize PostgreSQL Database
 bot.db = Database(
-    dsn="postgresql://postgres:pokedia2389@localhost:5432/pokedia"
+    dsn="postgresql://postgres:Pokedia_1166@database-1.cv44m6k2o5b9.ap-southeast-2.rds.amazonaws.com:5432/postgres"
 )
 
 # Function to load extensions
