@@ -1115,7 +1115,14 @@ class Sprites(commands.Cog):
     "accelgor": "1338124882336153632",
     "absol": "1338124866083229757",
     "abra": "1338124844142956544",
-    "abomasnow": "1338124817915838570"
+    "abomasnow": "1338124817915838570",
+    "auroracelebi": "1453726940149190729",
+    "reindeermanectric": "1453726766790217801",
+    "snowballpikachu": "1453726706475995328",
+    "lightsamaura": "1453726529191415970",
+    "christmastimburr": "1453726849418006539",
+    "arcticsnowzorua": "1453726806560739338",
+    "tapubael": "1453726899951112314"
 }
 
     async def get_pokemon_emoji(self, name: str) -> str:
