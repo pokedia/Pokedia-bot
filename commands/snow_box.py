@@ -61,7 +61,7 @@ class SnowBox(commands.Cog):
     async def insert_redeems(self, user_id, amount=1):
         await self.db.execute("UPDATE users SET redeems = redeems + $1 WHERE userid = $2", amount, int(user_id))
 
-    @commands.command(name="santa", aliases=["st"])
+    @commands.command(name="snow", aliases=["sn"])
     async def birthday(self, ctx, action: str, amount: int):
         if action.lower() not in ("open", "o"):
             return
