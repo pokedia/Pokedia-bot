@@ -92,9 +92,9 @@ class GamesDropdown(discord.ui.Select):
                 description=(
                     "**Help Santa find his `LOST STAR`**.\n\n"
                     "You will receive Decor Box while catching in the wild.\n\n"
-                    "Open those boxes and have a chance to find the Golden Star!**\n\n"
+                    "Open those boxes and have a chance to find the Golden Star!\n\n"
                     "**Prize System:**\n"
-                    "If you box a Golden Star, You wi automatically receive your **REWARD**\n"
+                    "If you box a Golden Star, You will automatically receive your **REWARD**\n"
                     "`3x Santa Box; 1500 Pokecash`\n\n"
                     "Use the command `@Pokédia#2537 decoropen/do` to open the Decor Box."
                 ),
