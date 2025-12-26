@@ -37,7 +37,7 @@ class InviteTracker(commands.Cog):
             return
 
         # Allow Discord time to update invite uses
-        await asyncio.sleep(2)
+        await asyncio.sleep(7)
 
         if not self.bot.invites:
             print("⚠️ Invite cache empty. Re-fetching...")
