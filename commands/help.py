@@ -70,17 +70,10 @@ class HelpCommand(commands.Cog):
             .add_field(name="`shop`", value="• Shows Shop Interface.", inline=False)
             .add_field(name="`buy shards/redeems <amt> /shinycharm`", value="• Lets you Shards and Redeems", inline=False),
 
-            discord.Embed(title="Help - Page 6", description="**Fusion Commands**", color=discord.Color.blue())
-            .add_field(name="`fuse add <ID> <ID>`", value="• Adds Pokemon Pairs to Fusion Incubator.", inline=False)
-            .add_field(name="`fuse remove`", value="• Removes the pair from the incubator.", inline=False)
-            .add_field(name="`fuse start`", value="• Starts the fusion process.", inline=False)
-            .add_field(name="`fuse`", value="• Shows your Fusion Incubator..", inline=False),
-
             discord.Embed(title="Help - Page 7", description="**Filters Commands**", color=discord.Color.blue())
             .add_field(name="`--n or --name`", value="• Filters Name.", inline=False)
             .add_field(name="`--iv ><{iv}`", value="• Filters IV.", inline=False)
             .add_field(name="`--shiny or --sh`", value="• Filters Shinies.", inline=False)
-            .add_field(name="`--fusionable or --fn`", value="• Filters Fusionable Pokemon.", inline=False)
             .add_field(name="`--{stat} [IV]`", value="• Filters Pokemons with that STAT IV.", inline=False)
             .add_field(name="`--rare or --ra`", value="• Filters every Rare Pokemon.", inline=False)
             .add_field(name="`--legendary or --leg`", value="• Filters every Legendary Pokemon", inline=False)
