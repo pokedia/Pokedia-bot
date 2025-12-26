@@ -90,7 +90,7 @@ class SpawnCommand(commands.Cog):
 
         embed = discord.Embed(
             title=title,
-            description="Guess the Pokémon and catch it by !catch <name>",
+            description="Guess the Pokémon and catch it by `@Pokédia#2537 catch <name>`",
             color=color,
         )
         embed.set_image(url="attachment://pokemon.png")

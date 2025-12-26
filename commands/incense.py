@@ -75,7 +75,7 @@ class IncenseCommand(commands.Cog):
 
         embed = discord.Embed(
             title=title,
-            description="Guess the Pokémon and catch it by !catch <name>",
+            description="Guess the Pokémon and catch it by `Pokédia#2537catch <name>`",
             color=color,
         )
         embed.set_image(url="attachment://pokemon.png")
@@ -272,7 +272,7 @@ class IncenseCommand(commands.Cog):
 
             embed = discord.Embed(
                 title="A wild Pokémon has appeared!",
-                description="Guess the Pokémon using !catch <name>!",
+                description="Guess the Pokémon using `Pokédia#2537 catch <name>`",
                 color=discord.Color.green(),
             )
             embed.set_footer(text=f"Spawns remaining: {spawn_remaining} | Interval: {interval}")
@@ -331,7 +331,7 @@ class IncenseCommand(commands.Cog):
 
                 embed = discord.Embed(
                     title="A wild Pokémon has appeared!",
-                    description="Guess the Pokémon using !catch <name>!",
+                    description="Guess the Pokémon using `Pokédia#2537 catch <name>`",
                     color=discord.Color.green(),
                 )
                 embed.set_footer(text="Spawns: infinite | Interval: 20s")
