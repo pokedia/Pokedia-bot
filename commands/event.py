@@ -31,7 +31,7 @@ class GamesDropdown(discord.ui.Select):
             discord.SelectOption(label="Spot The Santa", description="Test your memory skills", emoji="🎅"),
             discord.SelectOption(label="Fill Up The Spaces", description="Coming Soon", emoji="⚫"),
             discord.SelectOption(label="Dodge the Snowball", description="Test your Luck", emoji="❄️"),
-            discord.SelectOption(label="Find the Golden Star", description="Coming Soon", emoji="🌟"),
+            discord.SelectOption(label="Find the Golden Star", description="Help Your Santa", emoji="🌟"),
         ]
 
         super().__init__(
