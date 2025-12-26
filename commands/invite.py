@@ -1,48 +1,55 @@
 import discord
 import asyncio
-from discord.ext import commands
+from discord.ext import commands, tasks
 
-GUILD_ID = 1339192279470178375  # Your server ID
-GIFT_REWARD = 5  # Tip Boxes per invite
+GUILD_ID = 1339192279470178375
+GIFT_REWARD = 5
 
 
 class InviteTracker(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-        self.bot.invites = {}
 
-    async def fetch_invites(self):
+        # Live invite cache
+        self.invite_cache = {}
+
+        # Start polling
+        self.invite_poll.start()
+
+    def cog_unload(self):
+        self.invite_poll.cancel()
+
+    # 🔄 Poll invites every 10 seconds
+    @tasks.loop(seconds=10)
+    async def invite_poll(self):
         guild = self.bot.get_guild(GUILD_ID)
         if not guild:
-            print("❌ Guild not found.")
             return
 
         try:
             invites = await guild.invites()
-            self.bot.invites = {invite.code: invite.uses for invite in invites}
-            print("✅ Cached invites:", self.bot.invites)
+            self.invite_cache = {i.code: i.uses for i in invites}
+            print("Cached invites:", self.invite_cache)
         except discord.Forbidden:
-            print("❌ Missing 'Manage Server' permission for invite tracking.")
+            print("❌ Missing Manage Server permission.")
         except Exception as e:
-            print("❌ Error fetching invites:", e)
+            print("❌ Invite poll error:", e)
 
-    @commands.Cog.listener()
-    async def on_ready(self):
-        print("✅ InviteTracker Cog loaded.")
-        await self.fetch_invites()
+    @invite_poll.before_loop
+    async def before_invite_poll(self):
+        await self.bot.wait_until_ready()
+        print("✅ Invite polling started")
 
     @commands.Cog.listener()
     async def on_member_join(self, member):
         if member.guild.id != GUILD_ID:
             return
 
-        # Allow Discord time to update invite uses
-        await asyncio.sleep(2)
+        # 🧊 Snapshot BEFORE Discord updates uses
+        before = self.invite_cache.copy()
 
-        if not self.bot.invites:
-            print("⚠️ Invite cache empty. Re-fetching...")
-            await self.fetch_invites()
-            return
+        # ⏳ Allow Discord to increment uses
+        await asyncio.sleep(2)
 
         try:
             invites = await member.guild.invites()
@@ -50,28 +57,27 @@ class InviteTracker(commands.Cog):
             print("❌ Missing permission to fetch invites.")
             return
 
-        new_invites = {invite.code: invite.uses for invite in invites}
-
-        print("OLD INVITES:", self.bot.invites)
-        print("NEW INVITES:", new_invites)
-
         inviter = None
+        max_diff = 0
 
         for invite in invites:
-            if invite.code in self.bot.invites:
-                if invite.uses > self.bot.invites[invite.code]:
-                    inviter = invite.inviter
-                    print(f"🎉 Inviter detected: {inviter}")
-                    break
+            old_uses = before.get(invite.code, 0)
+            diff = invite.uses - old_uses
+
+            if diff > max_diff:
+                max_diff = diff
+                inviter = invite.inviter
 
         # Update cache
-        self.bot.invites = new_invites
+        self.invite_cache = {i.code: i.uses for i in invites}
 
         if not inviter:
-            print("⚠️ Could not detect inviter (vanity / expired / cache issue).")
+            print("⚠️ Could not detect inviter.")
             return
 
-        # 🔒 Ensure inviter exists in users table
+        print(f"🎉 Inviter detected: {inviter}")
+
+        # Ensure inviter exists
         await self.bot.db.execute(
             """
             INSERT INTO users (userid)
@@ -81,7 +87,7 @@ class InviteTracker(commands.Cog):
             inviter.id
         )
 
-        # 📦 Reward Tip Box
+        # Reward
         await self.bot.db.execute(
             """
             INSERT INTO inventory (userid, item_name, value)
@@ -92,14 +98,14 @@ class InviteTracker(commands.Cog):
             inviter.id, GIFT_REWARD
         )
 
-        # 📩 DM inviter
+        # DM inviter
         try:
             await inviter.send(
                 f"🎉 **Invite Reward!**\n"
                 f"You invited **{member.name}** and received ☃️ **{GIFT_REWARD} Snow Boxes**!"
             )
         except discord.Forbidden:
-            print(f"⚠️ Could not DM {inviter} (DMs closed).")
+            print("⚠️ DMs closed.")
 
 
 async def setup(bot):
