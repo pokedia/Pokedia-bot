@@ -2,7 +2,7 @@ import discord
 import asyncio
 from discord.ext import commands
 
-GUILD_ID = 1365952234000613426  # Your server ID
+GUILD_ID = 1339192279470178375  # Your server ID
 GIFT_REWARD = 5  # Tip Boxes per invite
 
 
