@@ -1,77 +1,83 @@
 import discord
 import asyncio
-from discord.ext import commands
+from discord.ext import commands, tasks
 
-GUILD_ID = 1339192279470178375  # Your server ID
-GIFT_REWARD = 5  # Tip Boxes per invite
+GUILD_ID = 1339192279470178375  # 🔴 CHANGE if needed
+GIFT_REWARD = 5  # Snow Boxes per invite
 
 
 class InviteTracker(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-        self.bot.invites = {}
+        self.invites = {}
+        self.invite_poll.start()
+
+    def cog_unload(self):
+        self.invite_poll.cancel()
+
+    # 🔄 Poll invites every 2 seconds so new links are never missed
+    @tasks.loop(seconds=2)
+    async def invite_poll(self):
+        await self.fetch_invites()
+
+    @invite_poll.before_loop
+    async def before_invite_poll(self):
+        await self.bot.wait_until_ready()
+        await self.fetch_invites()
+        print("✅ Invite polling started (every 2 seconds)")
 
     async def fetch_invites(self):
         guild = self.bot.get_guild(GUILD_ID)
         if not guild:
-            print("❌ Guild not found.")
             return
 
         try:
             invites = await guild.invites()
-            self.bot.invites = {invite.code: invite.uses for invite in invites}
-            print("✅ Cached invites:", self.bot.invites)
+            self.invites = {invite.code: invite.uses for invite in invites}
+            print("✅ Cached invites:", self.invites)
         except discord.Forbidden:
-            print("❌ Missing 'Manage Server' permission for invite tracking.")
+            print("❌ Missing Manage Server permission.")
         except Exception as e:
-            print("❌ Error fetching invites:", e)
-
-    @commands.Cog.listener()
-    async def on_ready(self):
-        print("✅ InviteTracker Cog loaded.")
-        await self.fetch_invites()
+            print("❌ Invite fetch error:", e)
 
     @commands.Cog.listener()
     async def on_member_join(self, member):
         if member.guild.id != GUILD_ID:
             return
 
-        # Allow Discord time to update invite uses
+        # ⏳ Let Discord update invite uses
         await asyncio.sleep(2)
-
-        if not self.bot.invites:
-            print("⚠️ Invite cache empty. Re-fetching...")
-            await self.fetch_invites()
-            return
 
         try:
             invites = await member.guild.invites()
         except discord.Forbidden:
-            print("❌ Missing permission to fetch invites.")
+            print("❌ Cannot fetch invites (permission).")
             return
 
-        new_invites = {invite.code: invite.uses for invite in invites}
-
-        print("OLD INVITES:", self.bot.invites)
-        print("NEW INVITES:", new_invites)
+        print("OLD INVITES:", self.invites)
 
         inviter = None
+        max_diff = 0
 
+        # 🔍 DELTA-BASED detection (THIS IS THE FIX)
         for invite in invites:
-            if invite.code in self.bot.invites:
-                if invite.uses > self.bot.invites[invite.code]:
-                    inviter = invite.inviter
-                    print(f"🎉 Inviter detected: {inviter}")
-                    break
+            old_uses = self.invites.get(invite.code, 0)
+            diff = invite.uses - old_uses
 
-        # Update cache
-        self.bot.invites = new_invites
+            if diff > max_diff:
+                max_diff = diff
+                inviter = invite.inviter
+
+        # 🔁 Update cache AFTER detection
+        self.invites = {invite.code: invite.uses for invite in invites}
 
         if not inviter:
-            print("⚠️ Could not detect inviter (vanity / expired / cache issue).")
+            print("⚠️ Inviter not found (vanity / already cached join).")
             return
 
-        # 🔒 Ensure inviter exists in users table
+        print(f"🎉 Inviter detected: {inviter} → +{GIFT_REWARD} Snow Boxes")
+
+        # 🔒 Ensure inviter exists
         await self.bot.db.execute(
             """
             INSERT INTO users (userid)
@@ -81,7 +87,7 @@ class InviteTracker(commands.Cog):
             inviter.id
         )
 
-        # 📦 Reward Tip Box
+        # 📦 Reward Snow Box
         await self.bot.db.execute(
             """
             INSERT INTO inventory (userid, item_name, value)
@@ -104,5 +110,6 @@ class InviteTracker(commands.Cog):
 
 async def setup(bot):
     await bot.add_cog(InviteTracker(bot))
+
 
 
