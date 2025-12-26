@@ -72,25 +72,35 @@ class InviteTracker(commands.Cog):
             return
 
         # 🔒 Ensure inviter exists in users table
-        await self.bot.db.execute(
-            """
-            INSERT INTO users (userid)
-            VALUES ($1)
-            ON CONFLICT (userid) DO NOTHING
-            """,
+        # Ensure inviter exists in users table
+        exists = await self.bot.db.fetchval(
+            "SELECT 1 FROM users WHERE userid=$1",
+            inviter.id
+        )
+        if not exists:
+            await self.bot.db.execute(
+                "INSERT INTO users (userid) VALUES ($1)",
+                inviter.id
+            )
+
+        # Reward Tip Box without ON CONFLICT
+        current_value = await self.bot.db.fetchval(
+            "SELECT value FROM inventory WHERE userid=$1 AND item_name='Snow Box'",
             inviter.id
         )
 
-        # 📦 Reward Tip Box
-        await self.bot.db.execute(
-            """
-            INSERT INTO inventory (userid, item_name, value)
-            VALUES ($1, 'Snow Box', $2)
-            ON CONFLICT (userid, item_name)
-            DO UPDATE SET value = inventory.value + $2
-            """,
-            inviter.id, GIFT_REWARD
-        )
+        if current_value is None:
+            # Insert new row
+            await self.bot.db.execute(
+                "INSERT INTO inventory (userid, item_name, value) VALUES ($1, 'Snow Box', $2)",
+                inviter.id, GIFT_REWARD
+            )
+        else:
+            # Update existing row
+            await self.bot.db.execute(
+                "UPDATE inventory SET value = value + $1 WHERE userid=$2 AND item_name='Snow Box'",
+                GIFT_REWARD, inviter.id
+            )
 
         # 📩 DM inviter
         try:
