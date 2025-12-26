@@ -3,23 +3,25 @@ import asyncio
 from discord.ext import commands, tasks
 
 GUILD_ID = 1339192279470178375
-GIFT_REWARD = 5
+GIFT_REWARD = 5  # Snow Boxes per invite
 
 
 class InviteTracker(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-        # 🔥 TWO CACHES (THIS IS THE FIX)
-        self.live_invites = {}
-        self.join_snapshot = {}
+        # 🔥 Live cache updated every 2 seconds
+        self.live_invites: dict[str, int] = {}
+
+        # 🧊 Snapshot taken at join time
+        self.join_snapshot: dict[str, int] = {}
 
         self.invite_poll.start()
 
     def cog_unload(self):
         self.invite_poll.cancel()
 
-    # 🔄 Poll invites every 2 seconds (LIVE cache only)
+    # -------------------- INVITE POLLER --------------------
     @tasks.loop(seconds=2)
     async def invite_poll(self):
         guild = self.bot.get_guild(GUILD_ID)
@@ -40,15 +42,16 @@ class InviteTracker(commands.Cog):
         await self.bot.wait_until_ready()
         print("✅ Invite polling started")
 
+    # -------------------- MEMBER JOIN --------------------
     @commands.Cog.listener()
-    async def on_member_join(self, member):
+    async def on_member_join(self, member: discord.Member):
         if member.guild.id != GUILD_ID:
             return
 
-        # 🧊 Freeze snapshot BEFORE Discord increments uses
+        # 🧊 Freeze snapshot BEFORE Discord updates uses
         self.join_snapshot = self.live_invites.copy()
 
-        # ⏳ Let Discord update invite uses
+        # ⏳ Allow Discord to increment invite uses
         await asyncio.sleep(2)
 
         try:
@@ -57,24 +60,26 @@ class InviteTracker(commands.Cog):
             return
 
         inviter = None
-        max_diff = 0
+        highest_diff = 0
 
-        # 🔍 Compare against SNAPSHOT (not live cache)
+        # 🔍 Compare snapshot vs current
         for invite in invites:
-            old_uses = self.join_snapshot.get(invite.code, 0)
-            diff = invite.uses - old_uses
+            before = self.join_snapshot.get(invite.code, 0)
+            diff = invite.uses - before
 
-            if diff > max_diff:
-                max_diff = diff
+            if diff > highest_diff:
+                highest_diff = diff
                 inviter = invite.inviter
 
         if not inviter:
-            print("⚠️ Inviter not found (vanity / deleted invite).")
+            print("⚠️ Inviter not found (vanity / onboarding / deleted invite).")
             return
 
-        print(f"🎉 Inviter detected: {inviter}")
+        print(f"🎉 Inviter detected: {inviter} for {member}")
 
-        # 🔒 Ensure inviter exists
+        # -------------------- DATABASE --------------------
+
+        # 🔒 Ensure user exists
         await self.bot.db.execute(
             """
             INSERT INTO users (userid)
@@ -84,27 +89,32 @@ class InviteTracker(commands.Cog):
             inviter.id
         )
 
-        # 📦 Reward
+        # 📦 Give Snow Boxes
         await self.bot.db.execute(
             """
             INSERT INTO inventory (userid, item_name, value)
             VALUES ($1, 'Snow Box', $2)
             ON CONFLICT (userid, item_name)
-            DO UPDATE SET value = inventory.value + $2
+            DO UPDATE SET value = inventory.value + EXCLUDED.value
             """,
-            inviter.id, GIFT_REWARD
+            inviter.id,
+            GIFT_REWARD
         )
 
+        # -------------------- DM --------------------
         try:
             await inviter.send(
-                f"🎉 You invited **{member.name}** and received ☃️ **{GIFT_REWARD} Snow Boxes**!"
+                f"🎉 You invited **{member.name}**!\n"
+                f"☃️ You received **{GIFT_REWARD} Snow Boxes**."
             )
         except discord.Forbidden:
-            print("⚠️ DMs closed.")
+            print(f"⚠️ Could not DM {inviter} (DMs closed).")
 
 
+# -------------------- SETUP --------------------
 async def setup(bot):
     await bot.add_cog(InviteTracker(bot))
+
 
 
 

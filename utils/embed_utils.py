@@ -4,7 +4,7 @@ async def create_starters_embed(bot):
     """Creates an embed showing all Gen 1 to Gen 9 starter Pokémon in an organized way."""
     embed = discord.Embed(
         title="Choose Your Starter Pokémon!",
-        description="To Pick your Starter, Use `@Pokédia#2537 pick <starter_name> .",
+        description="To Pick your Starter, Use `@Pokédia#2537 pick <starter_name>` .",
         color=discord.Color.green()
     )
 
